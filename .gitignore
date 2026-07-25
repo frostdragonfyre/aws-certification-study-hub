@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Drafts and scratch work — keep unpublished content out of the public repo
+drafts/
+scratch/
+*.draft.md
+
+# Local env / secrets (should never be needed in this repo, but just in case)
+.env
+*.pem
+*.key
+
+# Logs
+*.log
+
+# Node (if any tooling gets added later, e.g. link checkers, linters)
+node_modules/
+
+# Python (if any scripts get added later)
+__pycache__/
+*.pyc
+.venv/
+venv/
