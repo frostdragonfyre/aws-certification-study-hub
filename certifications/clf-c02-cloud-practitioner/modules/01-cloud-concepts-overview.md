@@ -186,4 +186,4 @@ You don't need exact bandwidth figures for Direct Connect, the specific configur
 
 ---
 
-**Next:** Module 2 (coming soon) · **Quiz:** Coming soon
+**Next:** [Module 2 — Cloud Economics and Billing](02-cloud-economics-and-billing.md) · **Quiz:** [Module 1 Quiz](../quizzes/01-cloud-concepts-overview-quiz.md) · **Activity:** [Module 1 Activity](../labs/01-cloud-concepts-overview-activity.md)
