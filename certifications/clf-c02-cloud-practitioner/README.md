@@ -1,7 +1,7 @@
 # CLF-C02 — AWS Certified Cloud Practitioner
 
-Status: structure in place, no modules written yet.
+Status: in progress.
 
 | # | Module | Quiz |
 |---|---|---|
-| 1 | Cloud Concepts Overview — not yet written | — |
+| 1 | [Cloud Concepts Overview](modules/01-cloud-concepts-overview.md) | Coming soon |

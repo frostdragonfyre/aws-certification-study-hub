@@ -40,7 +40,7 @@ Always start from the matching file in `templates/`:
 - `templates/quiz-template.md` for a new quiz
 - `templates/lab-template.md` for a new lab
 
-Once written, `certifications/clf-c02-cloud-practitioner/modules/01-cloud-concepts-overview.md` (the first module) is the quality bar for depth, tone, and formatting — match its level of detail and voice in new content.
+Use `certifications/clf-c02-cloud-practitioner/modules/01-cloud-concepts-overview.md` as the quality bar for depth, tone, and formatting.
 
 ## Adding a new certification
 
