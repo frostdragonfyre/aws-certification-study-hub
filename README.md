@@ -8,7 +8,8 @@ Every module, quiz, and lab here is original writing, built to explain AWS conce
 
 ```
 certifications/<exam-code>/
-  modules/    concept lessons, one file per topic
+  modules/    concept lessons, one file per topic (the primary written content)
+  lectures/   source slide decks (.pptx) paired with each module, where available
   quizzes/    practice questions with reasoned explanations
   labs/       hands-on exercises paired with modules
 

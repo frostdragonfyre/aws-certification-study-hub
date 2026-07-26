@@ -1,0 +1,20 @@
+# Lectures
+
+Raw lecture slide decks (`.pptx`), one per module, numbered to match the module it pairs with.
+
+Naming convention: `0N-module-slug.pptx` — e.g. `01-cloud-concepts-overview.pptx` pairs with `../modules/01-cloud-concepts-overview.md`.
+
+These are the source slides used in class. The written module in `../modules/` is the standalone, original-prose version of the same material — the two aren't required to match slide-for-slide, but should cover the same concepts.
+
+| # | Module | Slides |
+|---|---|---|
+| 1 | Cloud Concepts Overview | [Slides](01-cloud-concepts-overview.pptx) ✅ |
+| 2 | Cloud Economics and Billing | [Slides](02-cloud-economics-and-billing.pptx) ✅ |
+| 3 | AWS Global Infrastructure Overview | [Slides](03-aws-global-infrastructure-overview.pptx) ✅ |
+| 4 | AWS Cloud Security | Coming soon |
+| 5 | Networking and Content Delivery | Coming soon |
+| 6 | Compute | Coming soon |
+| 7 | Storage | Coming soon |
+| 8 | Databases | Coming soon |
+| 9 | Cloud Architecture | Coming soon |
+| 10 | Auto Scaling and Monitoring | Coming soon |
