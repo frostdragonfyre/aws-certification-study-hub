@@ -15,6 +15,11 @@ drafts/
 scratch/
 *.draft.md
 
+# Instructor-only materials — answer keys, quiz answers, speaker scripts, student
+# handout solutions. Never push these; students (and future students) can see this repo.
+instructor-private/
+**/instructor-private/
+
 # Local env / secrets (should never be needed in this repo, but just in case)
 .env
 *.pem
