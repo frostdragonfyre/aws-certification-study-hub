@@ -18,6 +18,14 @@ If you're not sure whether something crosses the line, don't guess — open an i
 
 Never include real student data — names, grades, emails, attendance records, submitted work, or anything else identifiable — in any file in this repo. This is a public resource; treat it as fully public at all times, including in commit messages and PR discussions.
 
+## Quiz answers stay private
+
+Quiz files in `quizzes/` are **questions only** — no answer key, no `<details>` reveal block, nothing that gives away the answer. These quizzes get used live in class, so answers can't be sitting in public GitHub history before students take them.
+
+Every quiz's answer key — quick-answers table, score bands, topic-mapped review, and full explanations — goes in that cert's `instructor-private/` folder instead (e.g. `certifications/clf-c02-cloud-practitioner/instructor-private/module-01-quiz-answer-key.md`). That folder is gitignored (`**/instructor-private/` in `.gitignore`); verify with `git check-ignore -v <path>` before trusting a new file is actually excluded. Use `templates/quiz-answer-key-template.md` to start one.
+
+This same rule covers anything else instructor-only: activity answer keys, speaker scripts, graded-assignment solutions. If it's an answer a student shouldn't see before you hand it out, it belongs in `instructor-private/`, not in a public folder.
+
 ## Style guide
 
 Match the existing voice. Concretely, that means:
@@ -37,7 +45,7 @@ Match the existing voice. Concretely, that means:
 Always start from the matching file in `templates/`:
 
 - `templates/module-template.md` for a new module
-- `templates/quiz-template.md` for a new quiz
+- `templates/quiz-template.md` for a new quiz (public, questions only) and `templates/quiz-answer-key-template.md` for its private answer key
 - `templates/lab-template.md` for a new lab
 
 Use `certifications/clf-c02-cloud-practitioner/modules/01-cloud-concepts-overview.md` as the quality bar for depth, tone, and formatting.
