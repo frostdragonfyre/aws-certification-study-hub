@@ -20,6 +20,12 @@ scratch/
 instructor-private/
 **/instructor-private/
 
+# Class calendar/pacing schedule — instructor-only, not for students. Real copy lives
+# in instructor-private/; these root-level names are ignored as a safety net in case
+# a stray copy ever ends up at repo root.
+/NET-3100BB2-schedule.md
+/NET-3100BB2-schedule.xlsx
+
 # Local env / secrets (should never be needed in this repo, but just in case)
 .env
 *.pem
