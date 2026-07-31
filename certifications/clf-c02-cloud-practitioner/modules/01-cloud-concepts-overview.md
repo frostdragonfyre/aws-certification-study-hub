@@ -20,6 +20,7 @@ By the end of this module, you should be able to:
 - State the shared responsibility model and correctly sort a given task as AWS's job or yours
 - Describe how Regions, Availability Zones, and edge locations fit together
 - Explain the basic logic behind AWS pricing, including the data transfer gotcha
+- Describe the AWS Cloud Adoption Framework and match a stakeholder or scenario to the correct one of its six perspectives
 - Name the six pillars of the AWS Well-Architected Framework
 
 ---
@@ -148,6 +149,32 @@ AWS pricing rests on a few consistent principles rather than a fixed price list,
 
 > ⚠️ **Exam trap:** "Data in is free, data out costs money" shows up constantly, both on the real exam and on real bills. If a scenario is about unexpectedly high costs from serving content to end users, data transfer *out* is usually the culprit.
 
+## The AWS Cloud Adoption Framework (CAF)
+
+Everything so far in this module has been about the technology. CAF exists because migrating to the cloud is not purely a technology project — organizations that treat it as one routinely stall, overspend, or reverse the migration entirely. CAF is AWS's guidance for the *organizational* side of adoption: who owns what, and what capabilities need to be in place before, during, and after a migration.
+
+CAF organizes its guidance into six **perspectives** — sets of capabilities, each owned by specific stakeholders. Three are business-oriented, three are technology-oriented:
+
+**Business-oriented perspectives**
+
+| Perspective | Stakeholders | What it covers |
+|---|---|---|
+| Business | CFO, business managers, finance and strategy owners | IT strategy tied to business strategy, business risk, benefits realization, IT finance |
+| People | HR, staffing, people managers | Resource management, incentives, career paths, training, organizational change management |
+| Governance | CIO, program managers, enterprise architects, portfolio managers | Aligning IT strategy and goals with business strategy and goals, portfolio and program management, license management, business performance measurement |
+
+**Technology-oriented perspectives**
+
+| Perspective | Stakeholders | What it covers |
+|---|---|---|
+| Platform | CTO, IT managers, solutions architects | Describing the target-state architecture: compute, network, storage, and database provisioning; systems and application architecture |
+| Security | CISO, IT security managers, IT security analysts | Identity and access management, detective control, infrastructure security, data protection, incident response |
+| Operations | IT operations managers, IT support managers | Service and application monitoring, resource inventory management, release and change management, reporting, business continuity and disaster recovery |
+
+A useful way to hold these six in your head: **Business, People, and Governance answer "is the organization ready?"** — budget, skills, and oversight. **Platform, Security, and Operations answer "is the technology ready?"** — architecture, protection, and day-to-day running. A CAF assessment is really asking both questions at once, and gaps on the organizational side are just as likely to derail a migration as gaps on the technical side.
+
+> ⚠️ **Exam trap:** CAF questions almost always describe a stakeholder or a symptom and ask which perspective owns it — they rarely name the perspective directly. Watch especially for **Governance vs. Security when the word "risk" appears**: *business* risk (missed value, poor alignment, runaway spend) is Governance; *security* risk (breaches, unauthorized access) is Security. The same word, two different owners, depending on what kind of risk is actually being described.
+
 ## The AWS Well-Architected Framework
 
 AWS's framework for what counts as a "well-built" system rests on six pillars:
@@ -175,6 +202,7 @@ You don't need exact bandwidth figures for Direct Connect, the specific configur
 - Shared responsibility splits security into "of the cloud" (AWS) and "in the cloud" (you) — misconfiguration is always your responsibility.
 - Spreading an application across multiple Availability Zones is the core habit behind AWS resilience.
 - Data transfer *out* of AWS costs money; data transfer *in* usually doesn't.
+- The AWS Cloud Adoption Framework organizes non-technical and technical readiness into six perspectives — Business, People, and Governance answer "is the organization ready?"; Platform, Security, and Operations answer "is the technology ready?"
 
 ## Further reading
 

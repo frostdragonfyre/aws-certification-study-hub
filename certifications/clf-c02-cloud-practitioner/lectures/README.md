@@ -6,6 +6,8 @@ Naming convention: `0N-module-slug.pptx` — e.g. `01-cloud-concepts-overview.pp
 
 These are the source slides used in class. The written module in `../modules/` is the standalone, original-prose version of the same material — the two aren't required to match slide-for-slide, but should cover the same concepts.
 
+Instructor delivery scripts (speaking notes, timing, talking points) live in `../instructor-private/` and are not part of this public folder.
+
 | # | Module | Slides |
 |---|---|---|
 | 1 | Cloud Concepts Overview | [Slides](01-cloud-concepts-overview.pptx) ✅ |
