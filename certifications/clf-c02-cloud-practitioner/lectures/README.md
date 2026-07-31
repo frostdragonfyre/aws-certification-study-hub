@@ -15,8 +15,8 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 3 | AWS Global Infrastructure Overview | [Slides](03-aws-global-infrastructure-overview.pptx) ✅ |
 | 4 | AWS Cloud Security | [Slides](04-aws-cloud-security.pptx) ✅ |
 | 5 | Networking and Content Delivery | [Slides](05-networking-and-content-delivery.pptx) ✅ |
-| 6 | Compute | Coming soon |
-| 7 | Storage | Coming soon |
+| 6 | Compute | [Slides](06-compute.pptx) ✅ |
+| 7 | Storage | [Slides](07-storage.pptx) ✅ |
 | 8 | Databases | Coming soon |
 | 9 | Cloud Architecture | Coming soon |
 | 10 | Auto Scaling and Monitoring | Coming soon |
