@@ -13,7 +13,7 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 1 | Cloud Concepts Overview | [Slides](01-cloud-concepts-overview.pptx) ✅ |
 | 2 | Cloud Economics and Billing | [Slides](02-cloud-economics-and-billing.pptx) ✅ |
 | 3 | AWS Global Infrastructure Overview | [Slides](03-aws-global-infrastructure-overview.pptx) ✅ |
-| 4 | AWS Cloud Security | Coming soon |
+| 4 | AWS Cloud Security | [Slides](04-aws-cloud-security.pptx) ✅ |
 | 5 | Networking and Content Delivery | Coming soon |
 | 6 | Compute | Coming soon |
 | 7 | Storage | Coming soon |
