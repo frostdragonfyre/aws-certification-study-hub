@@ -19,4 +19,6 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 7 | Storage | [Slides](07-storage.pptx) ✅ |
 | 8 | Databases | [Slides](08-databases.pptx) ✅ |
 | 9 | Cloud Architecture | [Slides](09-cloud-architecture.pptx) ✅ |
-| 10 | Auto Scaling and Monitoring | Coming soon |
+| 10 | Auto Scaling and Monitoring | [Slides](10-auto-scaling-and-monitoring.pptx) ✅ |
+
+**Foundations complete.** All ten Cloud Foundations lecture decks are now built.
