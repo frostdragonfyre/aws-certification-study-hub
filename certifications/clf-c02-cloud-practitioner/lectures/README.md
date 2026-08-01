@@ -17,6 +17,6 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 5 | Networking and Content Delivery | [Slides](05-networking-and-content-delivery.pptx) ✅ |
 | 6 | Compute | [Slides](06-compute.pptx) ✅ |
 | 7 | Storage | [Slides](07-storage.pptx) ✅ |
-| 8 | Databases | Coming soon |
-| 9 | Cloud Architecture | Coming soon |
+| 8 | Databases | [Slides](08-databases.pptx) ✅ |
+| 9 | Cloud Architecture | [Slides](09-cloud-architecture.pptx) ✅ |
 | 10 | Auto Scaling and Monitoring | Coming soon |

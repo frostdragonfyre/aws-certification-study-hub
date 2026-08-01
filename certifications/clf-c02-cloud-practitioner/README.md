@@ -11,10 +11,10 @@ Start at Module 1 and work down the table in order. Each module also links forwa
 | 3 | AWS Global Infrastructure Overview | [Lecture](modules/03-aws-global-infrastructure-overview.md) ✅ | [Slides](lectures/03-aws-global-infrastructure-overview.pptx) ✅ | [Quiz](quizzes/03-aws-global-infrastructure-overview-quiz.md) ✅ | [Activity](labs/03-aws-global-infrastructure-overview-activity.md) ✅ |
 | 4 | AWS Cloud Security | [Lecture](modules/04-aws-cloud-security.md) ✅ | [Slides](lectures/04-aws-cloud-security.pptx) ✅ | [Quiz](quizzes/04-aws-cloud-security-quiz.md) ✅ | [Activity](labs/04-aws-cloud-security-activity.md) ✅ |
 | 5 | Networking and Content Delivery | [Lecture](modules/05-networking-and-content-delivery.md) ✅ | [Slides](lectures/05-networking-and-content-delivery.pptx) ✅ | [Quiz](quizzes/05-networking-and-content-delivery-quiz.md) ✅ | [Activity](labs/05-networking-and-content-delivery-activity.md) ✅ |
-| 6 | Compute | [Lecture](modules/06-compute.md) ✅ | [Slides](lectures/06-compute.pptx) ✅ | [Quiz](quizzes/06-compute-quiz.md) | [Activity](labs/06-compute-activity.md) ✅ |
-| 7 | Storage | [Lecture](modules/07-storage.md) ✅ | [Slides](lectures/07-storage.pptx) ✅ | [Quiz](quizzes/07-storage-quiz.md) | [Activity](labs/07-storage-activity.md) ✅ |
-| 8 | Databases | [Lecture](modules/08-databases.md) | Add as `lectures/08-databases.pptx` | [Quiz](quizzes/08-databases-quiz.md) | [Activity](labs/08-databases-activity.md) |
-| 9 | Cloud Architecture | [Lecture](modules/09-cloud-architecture.md) | Add as `lectures/09-cloud-architecture.pptx` | [Quiz](quizzes/09-cloud-architecture-quiz.md) | [Activity](labs/09-cloud-architecture-activity.md) |
+| 6 | Compute | [Lecture](modules/06-compute.md) ✅ | [Slides](lectures/06-compute.pptx) ✅ | [Quiz](quizzes/06-compute-quiz.md) ✅ | [Activity](labs/06-compute-activity.md) ✅ |
+| 7 | Storage | [Lecture](modules/07-storage.md) ✅ | [Slides](lectures/07-storage.pptx) ✅ | [Quiz](quizzes/07-storage-quiz.md) ✅ | [Activity](labs/07-storage-activity.md) ✅ |
+| 8 | Databases | [Lecture](modules/08-databases.md) ✅ | [Slides](lectures/08-databases.pptx) ✅ | [Quiz](quizzes/08-databases-quiz.md) | [Activity](labs/08-databases-activity.md) ✅ |
+| 9 | Cloud Architecture | [Lecture](modules/09-cloud-architecture.md) ✅ | [Slides](lectures/09-cloud-architecture.pptx) ✅ | [Quiz](quizzes/09-cloud-architecture-quiz.md) | [Activity](labs/09-cloud-architecture-activity.md) ✅ |
 | 10 | Auto Scaling and Monitoring | [Lecture](modules/10-auto-scaling-and-monitoring.md) | Add as `lectures/10-auto-scaling-and-monitoring.pptx` | [Quiz](quizzes/10-auto-scaling-and-monitoring-quiz.md) | [Activity](labs/10-auto-scaling-and-monitoring-activity.md) |
 
 ✅ = written. Everything else is scaffolded (the link works and shows what's coming) but not yet written. Drop each module's slide deck into `lectures/` using the filename shown and it'll be in place — no other changes needed.
