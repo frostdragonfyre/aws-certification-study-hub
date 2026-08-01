@@ -30,7 +30,7 @@ This hub is being built out across the full AWS certification path. Status refle
 | Level | Exam | Status |
 |---|---|---|
 | Foundational | Cloud Practitioner (CLF-C02) | In progress |
-| Associate | Solutions Architect (SAA-C03) | Planned |
+| Associate | Solutions Architect (SAA-C03) | In progress |
 | Associate | Developer (DVA-C02) | Planned |
 | Associate | SysOps Administrator (SOA-C02) | Planned |
 | Associate | Data Engineer (DEA-C01) | Planned |

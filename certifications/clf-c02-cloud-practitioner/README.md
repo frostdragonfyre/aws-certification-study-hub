@@ -1,6 +1,6 @@
 # CLF-C02 — AWS Certified Cloud Practitioner
 
-**Status: Foundations complete.** All ten modules are written — lecture content, slide decks, and learning activities are done for every module. Module 10's own quiz is the one remaining stub (the 8/27 class used a full CCP exam review instead of a Module 10 quiz — see below).
+**Status: Foundations complete.** All ten modules are fully written — lecture content, slide decks, quizzes, and learning activities.
 
 Start at Module 1 and work down the table in order. Each module also links forward/back and to its own quiz and activity, so you can navigate from inside the content too. After Module 10, see the [CCP Exam Review guide](ccp-exam-review.md) for how all ten modules map to the exam's four domains, plus official AWS study resources.
 
@@ -15,9 +15,9 @@ Start at Module 1 and work down the table in order. Each module also links forwa
 | 7 | Storage | [Lecture](modules/07-storage.md) ✅ | [Slides](lectures/07-storage.pptx) ✅ | [Quiz](quizzes/07-storage-quiz.md) ✅ | [Activity](labs/07-storage-activity.md) ✅ |
 | 8 | Databases | [Lecture](modules/08-databases.md) ✅ | [Slides](lectures/08-databases.pptx) ✅ | [Quiz](quizzes/08-databases-quiz.md) ✅ | [Activity](labs/08-databases-activity.md) ✅ |
 | 9 | Cloud Architecture | [Lecture](modules/09-cloud-architecture.md) ✅ | [Slides](lectures/09-cloud-architecture.pptx) ✅ | [Quiz](quizzes/09-cloud-architecture-quiz.md) ✅ | [Activity](labs/09-cloud-architecture-activity.md) ✅ |
-| 10 | Auto Scaling and Monitoring | [Lecture](modules/10-auto-scaling-and-monitoring.md) ✅ | [Slides](lectures/10-auto-scaling-and-monitoring.pptx) ✅ | [Quiz](quizzes/10-auto-scaling-and-monitoring-quiz.md) | [Activity](labs/10-auto-scaling-and-monitoring-activity.md) ✅ |
+| 10 | Auto Scaling and Monitoring | [Lecture](modules/10-auto-scaling-and-monitoring.md) ✅ | [Slides](lectures/10-auto-scaling-and-monitoring.pptx) ✅ | [Quiz](quizzes/10-auto-scaling-and-monitoring-quiz.md) ✅ | [Activity](labs/10-auto-scaling-and-monitoring-activity.md) ✅ |
 
-✅ = written. Module 10's quiz remains scaffolded (the link works and shows what's coming) but not yet written, since the final class used a full [CCP Exam Review](ccp-exam-review.md) in place of a tenth module-specific quiz.
+✅ = written. The final class also used a full [CCP Exam Review](ccp-exam-review.md) alongside the Module 10 quiz to wrap up Foundations.
 
 ## How the modules map to the exam
 
