@@ -12,8 +12,8 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 |---|---|---|
 | 1 | Welcome to AWS Academy Cloud Architecting | [Slides](01-welcome-to-cloud-architecting.pptx) ✅ |
 | 2 | Introducing Cloud Architecting | [Slides](02-introducing-cloud-architecting.pptx) ✅ |
-| 3 | Securing Access | Coming soon |
-| 4 | Adding a Storage Layer with Amazon S3 | Coming soon |
+| 3 | Securing Access | [Slides](03-securing-access.pptx) ✅ |
+| 4 | Adding a Storage Layer with Amazon S3 | [Slides](04-adding-a-storage-layer-with-amazon-s3.pptx) ✅ |
 | 5 | Adding a Compute Layer Using Amazon EC2 | Coming soon |
 | 6 | Adding a Database Layer | Coming soon |
 | 7 | Creating a Networking Environment | Coming soon |

@@ -7,9 +7,9 @@ Start at Module 1 and work down the table in order. Several challenge labs in th
 | # | Module | Lecture | Slides | Quiz | Activity |
 |---|---|---|---|---|---|
 | 1 | Welcome to AWS Academy Cloud Architecting | [Lecture](modules/01-welcome-to-cloud-architecting.md) ✅ | [Slides](lectures/01-welcome-to-cloud-architecting.pptx) ✅ | *(no knowledge check — orientation module)* | *(no lab — orientation module)* |
-| 2 | Introducing Cloud Architecting | [Lecture](modules/02-introducing-cloud-architecting.md) ✅ | [Slides](lectures/02-introducing-cloud-architecting.pptx) ✅ | [Quiz](quizzes/02-introducing-cloud-architecting-quiz.md) | [Activity](labs/02-introducing-cloud-architecting-activity.md) |
-| 3 | Securing Access | [Lecture](modules/03-securing-access.md) | [Slides](lectures/03-securing-access.pptx) | [Quiz](quizzes/03-securing-access-quiz.md) | [Activity](labs/03-securing-access-activity.md) |
-| 4 | Adding a Storage Layer with Amazon S3 | [Lecture](modules/04-adding-a-storage-layer-with-amazon-s3.md) | [Slides](lectures/04-adding-a-storage-layer-with-amazon-s3.pptx) | [Quiz](quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) | [Activity](labs/04-adding-a-storage-layer-with-amazon-s3-activity.md) |
+| 2 | Introducing Cloud Architecting | [Lecture](modules/02-introducing-cloud-architecting.md) ✅ | [Slides](lectures/02-introducing-cloud-architecting.pptx) ✅ | [Quiz](quizzes/02-introducing-cloud-architecting-quiz.md) ✅ | [Activity](labs/02-introducing-cloud-architecting-activity.md) |
+| 3 | Securing Access | [Lecture](modules/03-securing-access.md) ✅ | [Slides](lectures/03-securing-access.pptx) ✅ | [Quiz](quizzes/03-securing-access-quiz.md) | [Activity](labs/03-securing-access-activity.md) |
+| 4 | Adding a Storage Layer with Amazon S3 | [Lecture](modules/04-adding-a-storage-layer-with-amazon-s3.md) ✅ | [Slides](lectures/04-adding-a-storage-layer-with-amazon-s3.pptx) ✅ | [Quiz](quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) | [Activity](labs/04-adding-a-storage-layer-with-amazon-s3-activity.md) |
 | 5 | Adding a Compute Layer Using Amazon EC2 | [Lecture](modules/05-adding-a-compute-layer-using-amazon-ec2.md) | [Slides](lectures/05-adding-a-compute-layer-using-amazon-ec2.pptx) | [Quiz](quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md) | [Activity](labs/05-adding-a-compute-layer-using-amazon-ec2-activity.md) |
 | 6 | Adding a Database Layer | [Lecture](modules/06-adding-a-database-layer.md) | [Slides](lectures/06-adding-a-database-layer.pptx) | [Quiz](quizzes/06-adding-a-database-layer-quiz.md) | [Activity](labs/06-adding-a-database-layer-activity.md) |
 | 7 | Creating a Networking Environment | [Lecture](modules/07-creating-a-networking-environment.md) | [Slides](lectures/07-creating-a-networking-environment.pptx) | [Quiz](quizzes/07-creating-a-networking-environment-quiz.md) | [Activity](labs/07-creating-a-networking-environment-activity.md) |
@@ -24,6 +24,8 @@ Start at Module 1 and work down the table in order. Several challenge labs in th
 | 16 | Planning for Disaster | [Lecture](modules/16-planning-for-disaster.md) | [Slides](lectures/16-planning-for-disaster.pptx) | [Quiz](quizzes/16-planning-for-disaster-quiz.md) | [Activity](labs/16-planning-for-disaster-activity.md) |
 
 ✅ = written. Everything else is scaffolded (the link works and shows what's coming) but not yet written. Modules 2 and 3 review and extend foundational cloud concepts from CLF-C02; Modules 4 through 8 each add one architectural layer to the evolving café case study; Modules 9 through 16 focus on cross-cutting design principles and best practices — security, availability, automation, decoupling, serverless design, data patterns, and disaster recovery — that apply across every layer.
+
+Module 1 has no official knowledge check (it's an orientation module); the Module 2 quiz link above covers Modules 1 and 2 together as a combined review.
 
 ## How this builds on CLF-C02
 
