@@ -106,4 +106,4 @@ You don't need to memorize exact storage-class pricing figures or the precise re
 
 ---
 
-**Previous:** [Module 3 — Securing Access](03-securing-access.md) · **Next:** [Module 5 — Adding a Compute Layer Using Amazon EC2](05-adding-a-compute-layer-using-amazon-ec2.md) · **Quiz:** [Module 4 Quiz](../quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) · **Activity:** [Module 4 Activity](../labs/04-adding-a-storage-layer-with-amazon-s3-activity.md)
+**Previous:** [Module 3 — Securing Access](03-securing-access.md) · **Next:** [Module 5 — Adding a Compute Layer Using Amazon EC2](05-adding-a-compute-layer-using-amazon-ec2.md) · **Quiz:** [Module 4 Quiz](../quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md)

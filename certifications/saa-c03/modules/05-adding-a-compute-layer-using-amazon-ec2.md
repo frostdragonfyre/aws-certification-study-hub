@@ -141,4 +141,4 @@ You don't need to memorize every current instance type's exact vCPU and memory s
 
 ---
 
-**Previous:** [Module 4 — Adding a Storage Layer with Amazon S3](04-adding-a-storage-layer-with-amazon-s3.md) · **Next:** [Module 6 — Adding a Database Layer](06-adding-a-database-layer.md) · **Quiz:** [Module 5 Quiz](../quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md) · **Activity:** [Module 5 Activity](../labs/05-adding-a-compute-layer-using-amazon-ec2-activity.md)
+**Previous:** [Module 4 — Adding a Storage Layer with Amazon S3](04-adding-a-storage-layer-with-amazon-s3.md) · **Next:** [Module 6 — Adding a Database Layer](06-adding-a-database-layer.md) · **Quiz:** [Module 5 Quiz](../quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md)

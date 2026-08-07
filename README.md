@@ -29,8 +29,8 @@ This hub is being built out across the full AWS certification path. Status refle
 
 | Level | Exam | Status |
 |---|---|---|
-| Foundational | Cloud Practitioner (CLF-C02) | In progress |
-| Associate | Solutions Architect (SAA-C03) | In progress |
+| Foundational | Cloud Practitioner (CLF-C02) | **Complete** — all 10 modules |
+| Associate | Solutions Architect (SAA-C03) | In progress — 6 of 16 modules |
 | Associate | Developer (DVA-C02) | Planned |
 | Associate | SysOps Administrator (SOA-C02) | Planned |
 | Associate | Data Engineer (DEA-C01) | Planned |
@@ -41,7 +41,8 @@ This hub is being built out across the full AWS certification path. Status refle
 ## Using this repo
 
 - **Studying for an exam?** Start in `certifications/<exam-code>/modules/01-...` and work through in order. Each module links to its quiz and any paired lab.
-- **Need a quick refresher?** Check `shared/cheat-sheets/` and `shared/glossary/` before digging into a full module.
+- **Need a quick refresher?** [Service decision tables](shared/cheat-sheets/service-decision-tables.md) answer "which service do I pick?" and the [glossary](shared/glossary/terms.md) defines the terms, including the pairs that get confused on exams.
+- **Struggling with scenario questions rather than the content?** Read [how to read AWS scenario questions](shared/exam-strategy/reading-scenario-questions.md). Most people who fail knew the services and answered a question the exam wasn't asking.
 - **Contributing or adapting this material?** See [CONTRIBUTING.md](CONTRIBUTING.md) — the short version is: original content only, no AWS documentation or courseware text, no real exam questions.
 
 ## License

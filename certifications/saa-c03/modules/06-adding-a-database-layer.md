@@ -111,4 +111,4 @@ You don't need to memorize the exact maximum number of read replicas each engine
 
 ---
 
-**Previous:** [Module 5 — Adding a Compute Layer Using Amazon EC2](05-adding-a-compute-layer-using-amazon-ec2.md) · **Next:** [Module 7 — Creating a Networking Environment](07-creating-a-networking-environment.md) · **Quiz:** [Module 6 Quiz](../quizzes/06-adding-a-database-layer-quiz.md) · **Activity:** [Module 6 Activity](../labs/06-adding-a-database-layer-activity.md)
+**Previous:** [Module 5 — Adding a Compute Layer Using Amazon EC2](05-adding-a-compute-layer-using-amazon-ec2.md) · **Next:** Module 7 — Creating a Networking Environment *(coming soon)* · **Quiz:** [Module 6 Quiz](../quizzes/06-adding-a-database-layer-quiz.md)

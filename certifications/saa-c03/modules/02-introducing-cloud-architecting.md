@@ -128,4 +128,4 @@ You don't need to memorize the exact three-month development-time figure from Am
 
 ---
 
-**Previous:** [Module 1 — Welcome to AWS Academy Cloud Architecting](01-welcome-to-cloud-architecting.md) · **Quiz:** [Module 2 Quiz](../quizzes/02-introducing-cloud-architecting-quiz.md) · **Activity:** [Module 2 Activity](../labs/02-introducing-cloud-architecting-activity.md)
+**Previous:** [Module 1 — Welcome to AWS Academy Cloud Architecting](01-welcome-to-cloud-architecting.md) · **Quiz:** [Module 2 Quiz](../quizzes/02-introducing-cloud-architecting-quiz.md)

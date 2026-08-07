@@ -97,4 +97,4 @@ You don't need to memorize IAM policy JSON syntax character-for-character, or ev
 
 ---
 
-**Previous:** [Module 2 — Introducing Cloud Architecting](02-introducing-cloud-architecting.md) · **Next:** [Module 4 — Adding a Storage Layer with Amazon S3](04-adding-a-storage-layer-with-amazon-s3.md) · **Quiz:** [Module 3 Quiz](../quizzes/03-securing-access-quiz.md) · **Activity:** [Module 3 Activity](../labs/03-securing-access-activity.md)
+**Previous:** [Module 2 — Introducing Cloud Architecting](02-introducing-cloud-architecting.md) · **Next:** [Module 4 — Adding a Storage Layer with Amazon S3](04-adding-a-storage-layer-with-amazon-s3.md) · **Quiz:** [Module 3 Quiz](../quizzes/03-securing-access-quiz.md)
