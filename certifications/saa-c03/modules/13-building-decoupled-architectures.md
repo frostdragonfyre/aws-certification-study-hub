@@ -97,4 +97,4 @@ You don't need to hand-write SQS consumer polling loops, memorize EventBridge's 
 
 ---
 
-**Next:** [Module 14 — Serverless Architectures and Microservices](14-serverless-architectures-and-microservices.md)
+**Next:** [Module 14 — Building Serverless Architectures and Microservices](14-building-serverless-architectures-and-microservices.md)

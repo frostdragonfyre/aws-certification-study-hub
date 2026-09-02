@@ -23,6 +23,6 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 11 | Automating Your Architecture | [Slides](11-automating-your-architecture.pptx) ✅ |
 | 12 | Caching Content | [Slides](12-caching-content.pptx) ✅ |
 | 13 | Building Decoupled Architectures | [Slides](13-building-decoupled-architectures.pptx) ✅ |
-| 14 | Building Serverless Architectures and Microservices | Coming soon |
+| 14 | Building Serverless Architectures and Microservices | [Slides](14-building-serverless-architectures-and-microservices.pptx) ✅ |
 | 15 | Data Engineering Patterns | Coming soon |
 | 16 | Planning for Disaster | Coming soon |
