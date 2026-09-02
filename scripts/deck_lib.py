@@ -39,14 +39,14 @@ CONTENT_W = SLIDE_W - 2 * MARGIN
 
 
 class Deck:
-    def __init__(self, module_num, module_title, subtitle_line):
+    def __init__(self, module_num, module_title, subtitle_line, cert_code="SAA-A"):
         self.prs = Presentation()
         self.prs.slide_width = SLIDE_W
         self.prs.slide_height = SLIDE_H
         self.BLANK = self.prs.slide_layouts[6]
         self.module_num = module_num
         self.module_title = module_title
-        self.footer_label = f"AWS SAA-A  ·  Lecture {module_num}  ·  {module_title}"
+        self.footer_label = f"AWS {cert_code}  ·  Lecture {module_num}  ·  {module_title}"
         self.subtitle_line = subtitle_line
         self.page = 0
 
