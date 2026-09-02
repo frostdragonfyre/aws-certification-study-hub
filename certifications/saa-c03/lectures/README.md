@@ -25,4 +25,4 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 13 | Building Decoupled Architectures | [Slides](13-building-decoupled-architectures.pptx) ✅ |
 | 14 | Building Serverless Architectures and Microservices | [Slides](14-building-serverless-architectures-and-microservices.pptx) ✅ |
 | 15 | Data Engineering Patterns | [Slides](15-data-engineering-patterns.pptx) ✅ |
-| 16 | Planning for Disaster | Coming soon |
+| 16 | Planning for Disaster | [Slides](16-planning-for-disaster.pptx) ✅ |

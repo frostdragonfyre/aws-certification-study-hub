@@ -1,6 +1,6 @@
 # SAA-C03 — AWS Certified Solutions Architect – Associate
 
-**Status: in progress — 15 of 16 modules.** This course follows AWS Academy Cloud Architecting's 16-module sequence, which builds directly on the CLF-C02 Cloud Foundations material and leads toward the AWS Certified Solutions Architect – Associate (SAA-C03) exam. Each module pairs a lecture (concept overview) with a quiz (knowledge check, starting Module 2).
+**Status: Complete.** All 16 modules are fully written — lecture content, slide decks, quizzes, and instructor materials. This course follows AWS Academy Cloud Architecting's 16-module sequence, which builds directly on the CLF-C02 Cloud Foundations material and leads toward the AWS Certified Solutions Architect – Associate (SAA-C03) exam. Each module pairs a lecture (concept overview) with a quiz (knowledge check, starting Module 2).
 
 Start at Module 1 and work down the table in order. Hands-on practice for this course lives in AWS Academy's own guided and challenge labs rather than in this repo. Those labs are built around a running fictional case study, a café and bakery owned by Frank and Martha, that evolves its AWS architecture from a simple static website up through a secure, scalable, multi-Region, serverless-enhanced system across the course.
 
@@ -21,7 +21,7 @@ Start at Module 1 and work down the table in order. Hands-on practice for this c
 | 13 | Building Decoupled Architectures | [Lecture](modules/13-building-decoupled-architectures.md) ✅ | [Slides](lectures/13-building-decoupled-architectures.pptx) ✅ | [Quiz](quizzes/13-building-decoupled-architectures-quiz.md) ✅ |
 | 14 | Building Serverless Architectures and Microservices | [Lecture](modules/14-building-serverless-architectures-and-microservices.md) ✅ | [Slides](lectures/14-building-serverless-architectures-and-microservices.pptx) ✅ | [Quiz](quizzes/14-building-serverless-architectures-and-microservices-quiz.md) ✅ |
 | 15 | Data Engineering Patterns | [Lecture](modules/15-data-engineering-patterns.md) ✅ | [Slides](lectures/15-data-engineering-patterns.pptx) ✅ | [Quiz](quizzes/15-data-engineering-patterns-quiz.md) ✅ |
-| 16 | Planning for Disaster | *Coming soon* | *Coming soon* | *Coming soon* |
+| 16 | Planning for Disaster | [Lecture](modules/16-planning-for-disaster.md) ✅ | [Slides](lectures/16-planning-for-disaster.pptx) ✅ | [Quiz](quizzes/16-planning-for-disaster-quiz.md) ✅ |
 
 ✅ = written and available now. "Coming soon" means the module is part of the course sequence but hasn't been written yet; links appear here as each one lands. Modules 2 and 3 review and extend foundational cloud concepts from CLF-C02; Modules 4 through 8 each add one architectural layer to the evolving café case study; Modules 9 through 16 focus on cross-cutting design principles and best practices — security, availability, automation, decoupling, serverless design, data patterns, and disaster recovery — that apply across every layer.
 
