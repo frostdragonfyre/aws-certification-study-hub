@@ -1,6 +1,6 @@
 # SAA-C03 — AWS Certified Solutions Architect – Associate
 
-**Status: in progress — 10 of 16 modules.** This course follows AWS Academy Cloud Architecting's 16-module sequence, which builds directly on the CLF-C02 Cloud Foundations material and leads toward the AWS Certified Solutions Architect – Associate (SAA-C03) exam. Each module pairs a lecture (concept overview) with a quiz (knowledge check, starting Module 2).
+**Status: in progress — 11 of 16 modules.** This course follows AWS Academy Cloud Architecting's 16-module sequence, which builds directly on the CLF-C02 Cloud Foundations material and leads toward the AWS Certified Solutions Architect – Associate (SAA-C03) exam. Each module pairs a lecture (concept overview) with a quiz (knowledge check, starting Module 2).
 
 Start at Module 1 and work down the table in order. Hands-on practice for this course lives in AWS Academy's own guided and challenge labs rather than in this repo. Those labs are built around a running fictional case study, a café and bakery owned by Frank and Martha, that evolves its AWS architecture from a simple static website up through a secure, scalable, multi-Region, serverless-enhanced system across the course.
 
@@ -16,7 +16,7 @@ Start at Module 1 and work down the table in order. Hands-on practice for this c
 | 8 | Connecting Networks | [Lecture](modules/08-connecting-networks.md) ✅ | [Slides](lectures/08-connecting-networks.pptx) ✅ | [Quiz](quizzes/08-connecting-networks-quiz.md) ✅ |
 | 9 | Securing User, Application, and Data Access | [Lecture](modules/09-securing-user-application-and-data-access.md) ✅ | [Slides](lectures/09-securing-user-application-and-data-access.pptx) ✅ | [Quiz](quizzes/09-securing-user-application-and-data-access-quiz.md) ✅ |
 | 10 | Implementing Monitoring, Elasticity, and High Availability | [Lecture](modules/10-implementing-monitoring-elasticity-and-high-availability.md) ✅ | [Slides](lectures/10-implementing-monitoring-elasticity-and-high-availability.pptx) ✅ | [Quiz](quizzes/10-implementing-monitoring-elasticity-and-high-availability-quiz.md) ✅ |
-| 11 | Automating Your Architecture | *Coming soon* | *Coming soon* | *Coming soon* |
+| 11 | Automating Your Architecture | [Lecture](modules/11-automating-your-architecture.md) ✅ | [Slides](lectures/11-automating-your-architecture.pptx) ✅ | [Quiz](quizzes/11-automating-your-architecture-quiz.md) ✅ |
 | 12 | Caching Content | *Coming soon* | *Coming soon* | *Coming soon* |
 | 13 | Building Decoupled Architectures | *Coming soon* | *Coming soon* | *Coming soon* |
 | 14 | Building Serverless Architectures and Microservices | *Coming soon* | *Coming soon* | *Coming soon* |
