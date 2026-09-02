@@ -21,7 +21,7 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 9 | Securing User, Application, and Data Access | [Slides](09-securing-user-application-and-data-access.pptx) ✅ |
 | 10 | Implementing Monitoring, Elasticity, and High Availability | [Slides](10-implementing-monitoring-elasticity-and-high-availability.pptx) ✅ |
 | 11 | Automating Your Architecture | [Slides](11-automating-your-architecture.pptx) ✅ |
-| 12 | Caching Content | Coming soon |
+| 12 | Caching Content | [Slides](12-caching-content.pptx) ✅ |
 | 13 | Building Decoupled Architectures | Coming soon |
 | 14 | Building Serverless Architectures and Microservices | Coming soon |
 | 15 | Data Engineering Patterns | Coming soon |
