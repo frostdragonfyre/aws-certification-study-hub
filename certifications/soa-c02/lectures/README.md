@@ -16,4 +16,6 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 4 | Implementing Scalability and Elasticity | [Slides](04-implementing-scalability-and-elasticity.pptx) ✅ |
 | 5 | Implementing High Availability and Resilient Environments | [Slides](05-implementing-high-availability-and-resilient-environments.pptx) ✅ |
 | 6 | Implementing Backup and Restore Strategies | [Slides](06-implementing-backup-and-restore-strategies.pptx) ✅ |
-| 7–15 | Domains 3–6, remaining tasks | Coming soon |
+| 7 | Provisioning and Maintaining Cloud Resources | [Slides](07-provisioning-and-maintaining-cloud-resources.pptx) ✅ |
+| 8 | Automating Manual and Repeatable Processes | [Slides](08-automating-manual-and-repeatable-processes.pptx) ✅ |
+| 9–15 | Domains 4–6, remaining tasks | Coming soon |
