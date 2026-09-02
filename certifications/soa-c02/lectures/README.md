@@ -14,4 +14,6 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 2 | Remediating Issues Based on Monitoring and Availability Metrics | [Slides](02-remediating-issues-based-on-monitoring-and-availability-metrics.pptx) ✅ |
 | 3 | Maintaining and Troubleshooting Logging Solutions | [Slides](03-maintaining-and-troubleshooting-logging-solutions.pptx) ✅ |
 | 4 | Implementing Scalability and Elasticity | [Slides](04-implementing-scalability-and-elasticity.pptx) ✅ |
-| 5–15 | Domains 2–6, remaining tasks | Coming soon |
+| 5 | Implementing High Availability and Resilient Environments | [Slides](05-implementing-high-availability-and-resilient-environments.pptx) ✅ |
+| 6 | Implementing Backup and Restore Strategies | [Slides](06-implementing-backup-and-restore-strategies.pptx) ✅ |
+| 7–15 | Domains 3–6, remaining tasks | Coming soon |
