@@ -16,10 +16,10 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 4 | Adding a Storage Layer with Amazon S3 | [Slides](04-adding-a-storage-layer-with-amazon-s3.pptx) ✅ |
 | 5 | Adding a Compute Layer Using Amazon EC2 | [Slides](05-adding-a-compute-layer-using-amazon-ec2.pptx) ✅ |
 | 6 | Adding a Database Layer | [Slides](06-adding-a-database-layer.pptx) ✅ |
-| 7 | Creating a Networking Environment | Coming soon |
-| 8 | Connecting Networks | Coming soon |
-| 9 | Securing User, Application, and Data Access | Coming soon |
-| 10 | Implementing Monitoring, Elasticity, and High Availability | Coming soon |
+| 7 | Creating a Networking Environment | [Slides](07-creating-a-networking-environment.pptx) ✅ |
+| 8 | Connecting Networks | [Slides](08-connecting-networks.pptx) ✅ |
+| 9 | Securing User, Application, and Data Access | [Slides](09-securing-user-application-and-data-access.pptx) ✅ |
+| 10 | Implementing Monitoring, Elasticity, and High Availability | [Slides](10-implementing-monitoring-elasticity-and-high-availability.pptx) ✅ |
 | 11 | Automating Your Architecture | Coming soon |
 | 12 | Caching Content | Coming soon |
 | 13 | Building Decoupled Architectures | Coming soon |

@@ -2,7 +2,7 @@
 
 **Status: Foundations complete.** All ten modules are fully written — lecture content, slide decks, quizzes, and learning activities.
 
-Start at Module 1 and work down the table in order. Each module also links forward/back and to its own quiz and activity, so you can navigate from inside the content too. After Module 10, see the [CCP Exam Review guide](ccp-exam-review.md) for how all ten modules map to the exam's four domains, plus official AWS study resources.
+Start at Module 1 and work down the table in order. Each module also links forward/back and to its own quiz and activity, so you can navigate from inside the content too. After Module 10, see the [CCP Exam Review guide](ccp-exam-review.md) ([slides](lectures/ccp-exam-review.pptx) ✅) for how all ten modules map to the exam's four domains, plus official AWS study resources.
 
 | # | Module | Lecture | Slides | Quiz | Activity |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@ Start at Module 1 and work down the table in order. Each module also links forwa
 | 9 | Cloud Architecture | [Lecture](modules/09-cloud-architecture.md) ✅ | [Slides](lectures/09-cloud-architecture.pptx) ✅ | [Quiz](quizzes/09-cloud-architecture-quiz.md) ✅ | [Activity](labs/09-cloud-architecture-activity.md) ✅ |
 | 10 | Auto Scaling and Monitoring | [Lecture](modules/10-auto-scaling-and-monitoring.md) ✅ | [Slides](lectures/10-auto-scaling-and-monitoring.pptx) ✅ | [Quiz](quizzes/10-auto-scaling-and-monitoring-quiz.md) ✅ | [Activity](labs/10-auto-scaling-and-monitoring-activity.md) ✅ |
 
-✅ = written. The final class also used a full [CCP Exam Review](ccp-exam-review.md) alongside the Module 10 quiz to wrap up Foundations.
+✅ = written. The final class also used a full [CCP Exam Review](ccp-exam-review.md) ([slides](lectures/ccp-exam-review.pptx) ✅) alongside the Module 10 quiz to wrap up Foundations.
 
 ## How the modules map to the exam
 

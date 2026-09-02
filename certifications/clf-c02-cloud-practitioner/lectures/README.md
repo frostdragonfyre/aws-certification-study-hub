@@ -22,3 +22,5 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 10 | Auto Scaling and Monitoring | [Slides](10-auto-scaling-and-monitoring.pptx) ✅ |
 
 **Foundations complete.** All ten Cloud Foundations lecture decks are now built.
+
+Also available: [`ccp-exam-review.pptx`](ccp-exam-review.pptx) ✅ — the standalone exam review deck that pairs with [`../ccp-exam-review.md`](../ccp-exam-review.md), used alongside the Module 10 class to wrap up Foundations.
