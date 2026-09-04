@@ -11,4 +11,5 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | # | Module | Slides |
 |---|---|---|
 | 1 | Ingest and Store Data | [Slides](01-ingest-and-store-data.pptx) ✅ |
-| 2–12 | Domains 1–4, the rest of the course | Coming soon |
+| 2 | Transform Data and Perform Feature Engineering | [Slides](02-transform-data-and-perform-feature-engineering.pptx) ✅ |
+| 3–12 | Domains 1–4, the rest of the course | Coming soon |

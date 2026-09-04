@@ -34,7 +34,7 @@ This hub is being built out across the full AWS certification path. Status refle
 | Associate | Developer (DVA-C02) | Planned |
 | Associate | SysOps Administrator (SOA-C02) | **Complete** — all 15 modules, all 6 domains |
 | Associate | Data Engineer (DEA-C01) | Planned |
-| Associate | Machine Learning Engineer (MLA-C01) | **In progress** — Module 1 of 12 |
+| Associate | Machine Learning Engineer (MLA-C01) | **In progress** — Modules 1-2 of 12 |
 | Professional | Solutions Architect (SAP-C02) | **Complete** — all 16 modules |
 | Professional | DevOps Engineer (DOP-C02) | Planned |
 | Specialty | Security, Networking, ML, Database, etc. | Planned |
