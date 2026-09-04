@@ -18,4 +18,8 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 6 | Implementing Backup and Restore Strategies | [Slides](06-implementing-backup-and-restore-strategies.pptx) ✅ |
 | 7 | Provisioning and Maintaining Cloud Resources | [Slides](07-provisioning-and-maintaining-cloud-resources.pptx) ✅ |
 | 8 | Automating Manual and Repeatable Processes | [Slides](08-automating-manual-and-repeatable-processes.pptx) ✅ |
-| 9–15 | Domains 4–6, remaining tasks | Coming soon |
+| 9 | Implementing and Managing Security and Compliance Policies | [Slides](09-implementing-and-managing-security-and-compliance-policies.pptx) ✅ |
+| 10 | Implementing Data and Infrastructure Protection Strategies | [Slides](10-implementing-data-and-infrastructure-protection-strategies.pptx) ✅ |
+| 11 | Implementing Networking Features and Connectivity | [Slides](11-implementing-networking-features-and-connectivity.pptx) ✅ |
+| 12 | Configuring Domains, DNS, and Content Delivery | [Slides](12-configuring-domains-dns-and-content-delivery.pptx) ✅ |
+| 13–15 | Domain 5 close, Domain 6 | Coming soon |

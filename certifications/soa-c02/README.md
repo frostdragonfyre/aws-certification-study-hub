@@ -1,6 +1,6 @@
 # SOA-C02 — AWS Certified SysOps Administrator – Associate
 
-**Status: In progress.** Domain 1 (Monitoring, Logging, and Remediation) is complete — Modules 1–3. Domain 2 (Reliability and Business Continuity) is also complete — Modules 4–6. Domain 3 (Deployment, Provisioning, and Automation) is also complete — Modules 7–8. Domain 4 (Security and Compliance) is next. The remaining domains are planned and will land in module order.
+**Status: In progress.** Domain 1 (Monitoring, Logging, and Remediation) is complete — Modules 1–3. Domain 2 (Reliability and Business Continuity) is also complete — Modules 4–6. Domain 3 (Deployment, Provisioning, and Automation) is also complete — Modules 7–8. Domain 4 (Security and Compliance) is also complete — Modules 9–10. Domain 5 (Networking and Content Delivery) is underway — Modules 11–12. The remaining domains are planned and will land in module order.
 
 This course follows a different angle on the same story world as SAP-C02: Priya Anand, Meridian Retail Group's Cloud Operations Lead, keeps Meridian Loyalty, Café Sol, and Ridgeline Diner Co. running day to day — the systems Sofía's team designed, improved, and migrated in SAP-C02. Where SAP-C02 asks "how should this be designed," SOA-C02 asks "how do you actually operate, monitor, and fix this once it's running." Start at Module 1 and work down the table in order.
 
@@ -14,15 +14,15 @@ This course follows a different angle on the same story world as SAP-C02: Priya 
 | 6 | Implementing Backup and Restore Strategies | Domain 2, Task 2.3 | [Lecture](modules/06-implementing-backup-and-restore-strategies.md) ✅ | [Slides](lectures/06-implementing-backup-and-restore-strategies.pptx) ✅ | [Quiz](quizzes/06-implementing-backup-and-restore-strategies-quiz.md) ✅ |
 | 7 | Provisioning and Maintaining Cloud Resources | Domain 3, Task 3.1 | [Lecture](modules/07-provisioning-and-maintaining-cloud-resources.md) ✅ | [Slides](lectures/07-provisioning-and-maintaining-cloud-resources.pptx) ✅ | [Quiz](quizzes/07-provisioning-and-maintaining-cloud-resources-quiz.md) ✅ |
 | 8 | Automating Manual and Repeatable Processes | Domain 3, Task 3.2 | [Lecture](modules/08-automating-manual-and-repeatable-processes.md) ✅ | [Slides](lectures/08-automating-manual-and-repeatable-processes.pptx) ✅ | [Quiz](quizzes/08-automating-manual-and-repeatable-processes-quiz.md) ✅ |
-| 9 | Implementing and Managing Security and Compliance Policies | Domain 4, Task 4.1 | Coming soon | Coming soon | Coming soon |
-| 10 | Implementing Data and Infrastructure Protection Strategies | Domain 4, Task 4.2 | Coming soon | Coming soon | Coming soon |
-| 11 | Implementing Networking Features and Connectivity | Domain 5, Task 5.1 | Coming soon | Coming soon | Coming soon |
-| 12 | Configuring Domains, DNS, and Content Delivery | Domain 5, Task 5.2 | Coming soon | Coming soon | Coming soon |
+| 9 | Implementing and Managing Security and Compliance Policies | Domain 4, Task 4.1 | [Lecture](modules/09-implementing-and-managing-security-and-compliance-policies.md) ✅ | [Slides](lectures/09-implementing-and-managing-security-and-compliance-policies.pptx) ✅ | [Quiz](quizzes/09-implementing-and-managing-security-and-compliance-policies-quiz.md) ✅ |
+| 10 | Implementing Data and Infrastructure Protection Strategies | Domain 4, Task 4.2 | [Lecture](modules/10-implementing-data-and-infrastructure-protection-strategies.md) ✅ | [Slides](lectures/10-implementing-data-and-infrastructure-protection-strategies.pptx) ✅ | [Quiz](quizzes/10-implementing-data-and-infrastructure-protection-strategies-quiz.md) ✅ |
+| 11 | Implementing Networking Features and Connectivity | Domain 5, Task 5.1 | [Lecture](modules/11-implementing-networking-features-and-connectivity.md) ✅ | [Slides](lectures/11-implementing-networking-features-and-connectivity.pptx) ✅ | [Quiz](quizzes/11-implementing-networking-features-and-connectivity-quiz.md) ✅ |
+| 12 | Configuring Domains, DNS, and Content Delivery | Domain 5, Task 5.2 | [Lecture](modules/12-configuring-domains-dns-and-content-delivery.md) ✅ | [Slides](lectures/12-configuring-domains-dns-and-content-delivery.pptx) ✅ | [Quiz](quizzes/12-configuring-domains-dns-and-content-delivery-quiz.md) ✅ |
 | 13 | Troubleshooting Network Connectivity Issues | Domain 5, Task 5.3 | Coming soon | Coming soon | Coming soon |
 | 14 | Implementing Cost Optimization Strategies | Domain 6, Task 6.1 | Coming soon | Coming soon | Coming soon |
 | 15 | Implementing Compute and Storage Performance Optimization | Domain 6, Task 6.2 | Coming soon | Coming soon | Coming soon |
 
-✅ = written and available now. "Coming soon" means the module is part of the course sequence but hasn't been written yet; links appear here as each one lands. Modules 1–3 close out Domain 1; Modules 4–6 close out Domain 2; Modules 7–8 close out Domain 3; Modules 9–10 cover Domain 4; Modules 11–13 cover Domain 5; Modules 14–15 close out Domain 6 and the course.
+✅ = written and available now. "Coming soon" means the module is part of the course sequence but hasn't been written yet; links appear here as each one lands. Modules 1–3 close out Domain 1; Modules 4–6 close out Domain 2; Modules 7–8 close out Domain 3; Modules 9–10 close out Domain 4; Modules 11–13 cover Domain 5; Modules 14–15 close out Domain 6 and the course.
 
 ## How this relates to SAP-C02
 
