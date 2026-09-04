@@ -22,4 +22,5 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 10 | Implementing Data and Infrastructure Protection Strategies | [Slides](10-implementing-data-and-infrastructure-protection-strategies.pptx) ✅ |
 | 11 | Implementing Networking Features and Connectivity | [Slides](11-implementing-networking-features-and-connectivity.pptx) ✅ |
 | 12 | Configuring Domains, DNS, and Content Delivery | [Slides](12-configuring-domains-dns-and-content-delivery.pptx) ✅ |
-| 13–15 | Domain 5 close, Domain 6 | Coming soon |
+| 13 | Troubleshooting Network Connectivity Issues | [Slides](13-troubleshooting-network-connectivity-issues.pptx) ✅ |
+| 14–15 | Domain 6, cost and performance optimization | Coming soon |
