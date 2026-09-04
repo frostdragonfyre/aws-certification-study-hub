@@ -13,4 +13,5 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 1 | Ingest and Store Data | [Slides](01-ingest-and-store-data.pptx) ✅ |
 | 2 | Transform Data and Perform Feature Engineering | [Slides](02-transform-data-and-perform-feature-engineering.pptx) ✅ |
 | 3 | Ensure Data Integrity and Prepare Data for Modeling | [Slides](03-ensure-data-integrity-and-prepare-data-for-modeling.pptx) ✅ |
-| 4–12 | Domains 2–4, the rest of the course | Coming soon |
+| 4 | Choose a Modeling Approach | [Slides](04-choose-a-modeling-approach.pptx) ✅ |
+| 5–12 | Domains 2–4, the rest of the course | Coming soon |
