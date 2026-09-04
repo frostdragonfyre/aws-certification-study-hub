@@ -1,6 +1,6 @@
 # MLA-C01 — AWS Certified Machine Learning Engineer – Associate
 
-**Status: In progress.** Domain 1 (Data Preparation for Machine Learning) is underway — Modules 1-2 of 3.
+**Status: In progress.** Domain 1 (Data Preparation for Machine Learning) is complete — Modules 1-3. Domain 2 (ML Model Development) is next.
 
 This course follows a third angle on the same story world as SAP-C02 and SOA-C02: Diego Torres, Meridian Retail Group's Machine Learning Engineer, builds and operates the ML systems layered on top of what Sofía's team designed and Priya keeps running — a product-recommendation model for Meridian Loyalty, demand forecasting for Ridgeline Diner Co., and fraud detection for Café Sol's transactions. Where SAP-C02 asked "how should this be designed" and SOA-C02 asked "how do you operate this once it's live," MLA-C01 asks "how do you build, deploy, and run machine learning on top of it." Start at Module 1 and work down the table in order.
 
@@ -8,7 +8,7 @@ This course follows a third angle on the same story world as SAP-C02 and SOA-C02
 |---|---|---|---|---|---|
 | 1 | Ingest and Store Data | Domain 1, Task 1.1 | [Lecture](modules/01-ingest-and-store-data.md) ✅ | [Slides](lectures/01-ingest-and-store-data.pptx) ✅ | [Quiz](quizzes/01-ingest-and-store-data-quiz.md) ✅ |
 | 2 | Transform Data and Perform Feature Engineering | Domain 1, Task 1.2 | [Lecture](modules/02-transform-data-and-perform-feature-engineering.md) ✅ | [Slides](lectures/02-transform-data-and-perform-feature-engineering.pptx) ✅ | [Quiz](quizzes/02-transform-data-and-perform-feature-engineering-quiz.md) ✅ |
-| 3 | Ensure Data Integrity and Prepare Data for Modeling | Domain 1, Task 1.3 | Coming soon | Coming soon | Coming soon |
+| 3 | Ensure Data Integrity and Prepare Data for Modeling | Domain 1, Task 1.3 | [Lecture](modules/03-ensure-data-integrity-and-prepare-data-for-modeling.md) ✅ | [Slides](lectures/03-ensure-data-integrity-and-prepare-data-for-modeling.pptx) ✅ | [Quiz](quizzes/03-ensure-data-integrity-and-prepare-data-for-modeling-quiz.md) ✅ |
 | 4 | Choose a Modeling Approach | Domain 2, Task 2.1 | Coming soon | Coming soon | Coming soon |
 | 5 | Train and Refine Models | Domain 2, Task 2.2 | Coming soon | Coming soon | Coming soon |
 | 6 | Analyze Model Performance | Domain 2, Task 2.3 | Coming soon | Coming soon | Coming soon |
