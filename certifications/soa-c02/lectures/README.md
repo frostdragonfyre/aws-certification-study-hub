@@ -23,4 +23,5 @@ Instructor delivery scripts (speaking notes, timing, talking points) live in `..
 | 11 | Implementing Networking Features and Connectivity | [Slides](11-implementing-networking-features-and-connectivity.pptx) ✅ |
 | 12 | Configuring Domains, DNS, and Content Delivery | [Slides](12-configuring-domains-dns-and-content-delivery.pptx) ✅ |
 | 13 | Troubleshooting Network Connectivity Issues | [Slides](13-troubleshooting-network-connectivity-issues.pptx) ✅ |
-| 14–15 | Domain 6, cost and performance optimization | Coming soon |
+| 14 | Implementing Cost Optimization Strategies | [Slides](14-implementing-cost-optimization-strategies.pptx) ✅ |
+| 15 | Implementing Compute and Storage Performance Optimization | [Slides](15-implementing-compute-and-storage-performance-optimization.pptx) ✅ |

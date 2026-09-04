@@ -1,6 +1,6 @@
 # SOA-C02 — AWS Certified SysOps Administrator – Associate
 
-**Status: In progress.** Domain 1 (Monitoring, Logging, and Remediation) is complete — Modules 1–3. Domain 2 (Reliability and Business Continuity) is also complete — Modules 4–6. Domain 3 (Deployment, Provisioning, and Automation) is also complete — Modules 7–8. Domain 4 (Security and Compliance) is also complete — Modules 9–10. Domain 5 (Networking and Content Delivery) is also complete — Modules 11–13. Domain 6 (Cost and Performance Optimization) is next, and will close out the course.
+**Status: Complete.** All six domains are done — Domain 1 (Monitoring, Logging, and Remediation, Modules 1–3), Domain 2 (Reliability and Business Continuity, Modules 4–6), Domain 3 (Deployment, Provisioning, and Automation, Modules 7–8), Domain 4 (Security and Compliance, Modules 9–10), Domain 5 (Networking and Content Delivery, Modules 11–13), and Domain 6 (Cost and Performance Optimization, Modules 14–15). All 15 modules are written, quizzed, and lectured.
 
 This course follows a different angle on the same story world as SAP-C02: Priya Anand, Meridian Retail Group's Cloud Operations Lead, keeps Meridian Loyalty, Café Sol, and Ridgeline Diner Co. running day to day — the systems Sofía's team designed, improved, and migrated in SAP-C02. Where SAP-C02 asks "how should this be designed," SOA-C02 asks "how do you actually operate, monitor, and fix this once it's running." Start at Module 1 and work down the table in order.
 
@@ -19,10 +19,10 @@ This course follows a different angle on the same story world as SAP-C02: Priya 
 | 11 | Implementing Networking Features and Connectivity | Domain 5, Task 5.1 | [Lecture](modules/11-implementing-networking-features-and-connectivity.md) ✅ | [Slides](lectures/11-implementing-networking-features-and-connectivity.pptx) ✅ | [Quiz](quizzes/11-implementing-networking-features-and-connectivity-quiz.md) ✅ |
 | 12 | Configuring Domains, DNS, and Content Delivery | Domain 5, Task 5.2 | [Lecture](modules/12-configuring-domains-dns-and-content-delivery.md) ✅ | [Slides](lectures/12-configuring-domains-dns-and-content-delivery.pptx) ✅ | [Quiz](quizzes/12-configuring-domains-dns-and-content-delivery-quiz.md) ✅ |
 | 13 | Troubleshooting Network Connectivity Issues | Domain 5, Task 5.3 | [Lecture](modules/13-troubleshooting-network-connectivity-issues.md) ✅ | [Slides](lectures/13-troubleshooting-network-connectivity-issues.pptx) ✅ | [Quiz](quizzes/13-troubleshooting-network-connectivity-issues-quiz.md) ✅ |
-| 14 | Implementing Cost Optimization Strategies | Domain 6, Task 6.1 | Coming soon | Coming soon | Coming soon |
-| 15 | Implementing Compute and Storage Performance Optimization | Domain 6, Task 6.2 | Coming soon | Coming soon | Coming soon |
+| 14 | Implementing Cost Optimization Strategies | Domain 6, Task 6.1 | [Lecture](modules/14-implementing-cost-optimization-strategies.md) ✅ | [Slides](lectures/14-implementing-cost-optimization-strategies.pptx) ✅ | [Quiz](quizzes/14-implementing-cost-optimization-strategies-quiz.md) ✅ |
+| 15 | Implementing Compute and Storage Performance Optimization | Domain 6, Task 6.2 | [Lecture](modules/15-implementing-compute-and-storage-performance-optimization.md) ✅ | [Slides](lectures/15-implementing-compute-and-storage-performance-optimization.pptx) ✅ | [Quiz](quizzes/15-implementing-compute-and-storage-performance-optimization-quiz.md) ✅ |
 
-✅ = written and available now. "Coming soon" means the module is part of the course sequence but hasn't been written yet; links appear here as each one lands. Modules 1–3 close out Domain 1; Modules 4–6 close out Domain 2; Modules 7–8 close out Domain 3; Modules 9–10 close out Domain 4; Modules 11–13 close out Domain 5; Modules 14–15 close out Domain 6 and the course.
+✅ = written and available now. All 15 modules are complete. Modules 1–3 close out Domain 1; Modules 4–6 close out Domain 2; Modules 7–8 close out Domain 3; Modules 9–10 close out Domain 4; Modules 11–13 close out Domain 5; Modules 14–15 close out Domain 6 and the entire course.
 
 ## How this relates to SAP-C02
 
