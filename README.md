@@ -15,6 +15,8 @@ The roadmap below describes material in this repository. Check the current AWS e
 
 For my accounting lessons, FinOps courses, and other teaching, visit [mycalbrown.com](https://mycalbrown.com/) or my [Pluralsight author page](https://www.pluralsight.com/authors/mycal-brown).
 
+For original cost-allocation and AI unit-economics exercises, visit the [FinOps Learning Lab](https://github.com/frostdragonfyre/finops-learning-lab).
+
 ## How this is organized
 
 ```
