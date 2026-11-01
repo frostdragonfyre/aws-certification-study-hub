@@ -4,6 +4,17 @@ Original, free study materials for AWS certifications — written by [Dr. Mycal 
 
 Every module, quiz, and lab here is original writing, built to explain AWS concepts the way I teach them in the classroom: the *why* before the *what*, judgment over memorization, and an honest read on what actually matters for the exam versus what's console trivia.
 
+## Start here
+
+- **New to AWS?** Open the [Cloud Practitioner learning path](certifications/clf-c02-cloud-practitioner/README.md). Begin with its first module, then use the paired quiz and activity.
+- **Ready to study architecture?** Open the [Solutions Architect Associate learning path](certifications/saa-c03-solutions-architect-associate/README.md). Its introduction explains prerequisites and where hands-on labs are hosted.
+- **Comparing services?** Use the [service decision tables](shared/cheat-sheets/service-decision-tables.md).
+- **Working through exam scenarios?** Start with [how to read AWS scenario questions](shared/exam-strategy/reading-scenario-questions.md).
+
+The roadmap below describes material in this repository. Check the current AWS exam guide separately before choosing an exam version; an authored learning path is not a claim that its exam is still available.
+
+For my accounting lessons, FinOps courses, and other teaching, visit [mycalbrown.com](https://mycalbrown.com/) or my [Pluralsight author page](https://www.pluralsight.com/authors/mycal-brown).
+
 ## How this is organized
 
 ```
