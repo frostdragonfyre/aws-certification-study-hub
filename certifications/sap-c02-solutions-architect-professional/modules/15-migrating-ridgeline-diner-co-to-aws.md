@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](14-improving-reliability-performance-and-cost.md) · [Next module](16-modernizing-whats-been-migrated.md) · [Quiz](../quizzes/15-migrating-ridgeline-diner-co-to-aws-quiz.md) · [Slides](../lectures/15-migrating-ridgeline-diner-co-to-aws.pptx)
+<!-- /hub-navigation -->
+
 # Module 15: Migrating Ridgeline Diner Co. to AWS
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

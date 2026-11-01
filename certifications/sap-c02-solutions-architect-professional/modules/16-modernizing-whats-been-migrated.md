@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](15-migrating-ridgeline-diner-co-to-aws.md) · [Quiz](../quizzes/16-modernizing-whats-been-migrated-quiz.md) · [Slides](../lectures/16-modernizing-whats-been-migrated.pptx)
+<!-- /hub-navigation -->
+
 # Module 16: Modernizing What's Been Migrated
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

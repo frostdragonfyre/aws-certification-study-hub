@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](07-designing-a-deployment-strategy.md) · [Next module](09-determining-security-controls-for-new-solutions.md) · [Quiz](../quizzes/08-designing-a-solution-to-ensure-business-continuity-quiz.md) · [Slides](../lectures/08-designing-a-solution-to-ensure-business-continuity.pptx)
+<!-- /hub-navigation -->
+
 # Module 8: Designing a Solution to Ensure Business Continuity
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

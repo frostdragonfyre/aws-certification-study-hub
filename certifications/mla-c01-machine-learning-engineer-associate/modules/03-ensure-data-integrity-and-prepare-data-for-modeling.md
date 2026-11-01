@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](02-transform-data-and-perform-feature-engineering.md) · [Next module](04-choose-a-modeling-approach.md) · [Quiz](../quizzes/03-ensure-data-integrity-and-prepare-data-for-modeling-quiz.md) · [Slides](../lectures/03-ensure-data-integrity-and-prepare-data-for-modeling.pptx)
+<!-- /hub-navigation -->
+
 # Module 3: Ensure Data Integrity and Prepare Data for Modeling
 
 **Course:** AWS Academy Machine Learning Engineering — building toward MLA-C01, AWS Certified Machine Learning Engineer – Associate

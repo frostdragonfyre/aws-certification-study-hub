@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](07-storage.md) · [Next module](09-cloud-architecture.md) · [Quiz](../quizzes/08-databases-quiz.md) · [Slides](../lectures/08-databases.pptx)
+<!-- /hub-navigation -->
+
 # Module 8: Databases
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

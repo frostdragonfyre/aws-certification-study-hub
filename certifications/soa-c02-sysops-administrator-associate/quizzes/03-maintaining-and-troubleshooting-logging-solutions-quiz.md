@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/03-maintaining-and-troubleshooting-logging-solutions.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 3 Knowledge Check**

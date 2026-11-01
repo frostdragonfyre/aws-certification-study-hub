@@ -1,6 +1,6 @@
 """
 Shared deck-building library for AWS Academy Cloud Architecting lecture decks
-(certifications/saa-c03/lectures/*.pptx). Matches the visual style of the
+(certifications/saa-c03-solutions-architect-associate/lectures/*.pptx). Matches the visual style of the
 existing Modules 1-6 decks: Calibri, navy/orange/teal/red palette, title and
 closing slides on dark navy with three orange circles + a big module-number
 badge, content slides alternating light-gray and dark-navy backgrounds.

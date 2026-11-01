@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/01-welcome-to-solutions-architect-professional.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 1 Knowledge Check**

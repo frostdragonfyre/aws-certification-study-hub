@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/08-designing-a-solution-to-ensure-business-continuity.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 8 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](10-implementing-monitoring-elasticity-and-high-availability.md) · [Next module](12-caching-content.md) · [Quiz](../quizzes/11-automating-your-architecture-quiz.md) · [Slides](../lectures/11-automating-your-architecture.pptx)
+<!-- /hub-navigation -->
+
 # Module 11: Automating Your Architecture
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/10-implementing-data-and-infrastructure-protection-strategies.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 10 Knowledge Check**

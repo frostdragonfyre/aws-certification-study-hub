@@ -1,29 +1,33 @@
 # SAA-C03 — AWS Certified Solutions Architect – Associate
 
-**Status: Complete.** All 16 modules are fully written — lecture content, slide decks, quizzes, and instructor materials. This course follows AWS Academy Cloud Architecting's 16-module sequence, which builds directly on the CLF-C02 Cloud Foundations material and leads toward the AWS Certified Solutions Architect – Associate (SAA-C03) exam. Each module pairs a lecture (concept overview) with a quiz (knowledge check, starting Module 2).
+[Hub home](../../README.md) · [Learning guide](../../LEARNING-GUIDE.md) · [Exam versions](../../EXAM-VERSIONS.md)
+
+**Start:** [Module 1](modules/01-welcome-to-cloud-architecting.md) · [Written modules](modules/README.md) · [Quizzes](quizzes/README.md) · [Slides](lectures/README.md)
+
+**Available material:** 16 written modules, 16 slide decks, and 15 quizzes. Module 1 is orientation; the Module 2 quiz reviews Modules 1 and 2. The AWS Academy labs referenced in the lessons are hosted separately and are not included here.
 
 Start at Module 1 and work down the table in order. Hands-on practice for this course lives in AWS Academy's own guided and challenge labs rather than in this repo. Those labs are built around a running fictional case study, a café and bakery owned by Frank and Martha, that evolves its AWS architecture from a simple static website up through a secure, scalable, multi-Region, serverless-enhanced system across the course.
 
-| # | Module | Lecture | Slides | Quiz |
+| # | Module | Lesson | Slides | Quiz |
 |---|---|---|---|---|
-| 1 | Welcome to AWS Academy Cloud Architecting | [Lecture](modules/01-welcome-to-cloud-architecting.md) ✅ | [Slides](lectures/01-welcome-to-cloud-architecting.pptx) ✅ | *(no knowledge check — orientation module)* |
-| 2 | Introducing Cloud Architecting | [Lecture](modules/02-introducing-cloud-architecting.md) ✅ | [Slides](lectures/02-introducing-cloud-architecting.pptx) ✅ | [Quiz](quizzes/02-introducing-cloud-architecting-quiz.md) ✅ |
-| 3 | Securing Access | [Lecture](modules/03-securing-access.md) ✅ | [Slides](lectures/03-securing-access.pptx) ✅ | [Quiz](quizzes/03-securing-access-quiz.md) ✅ |
-| 4 | Adding a Storage Layer with Amazon S3 | [Lecture](modules/04-adding-a-storage-layer-with-amazon-s3.md) ✅ | [Slides](lectures/04-adding-a-storage-layer-with-amazon-s3.pptx) ✅ | [Quiz](quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) ✅ |
-| 5 | Adding a Compute Layer Using Amazon EC2 | [Lecture](modules/05-adding-a-compute-layer-using-amazon-ec2.md) ✅ | [Slides](lectures/05-adding-a-compute-layer-using-amazon-ec2.pptx) ✅ | [Quiz](quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md) ✅ |
-| 6 | Adding a Database Layer | [Lecture](modules/06-adding-a-database-layer.md) ✅ | [Slides](lectures/06-adding-a-database-layer.pptx) ✅ | [Quiz](quizzes/06-adding-a-database-layer-quiz.md) ✅ |
-| 7 | Creating a Networking Environment | [Lecture](modules/07-creating-a-networking-environment.md) ✅ | [Slides](lectures/07-creating-a-networking-environment.pptx) ✅ | [Quiz](quizzes/07-creating-a-networking-environment-quiz.md) ✅ |
-| 8 | Connecting Networks | [Lecture](modules/08-connecting-networks.md) ✅ | [Slides](lectures/08-connecting-networks.pptx) ✅ | [Quiz](quizzes/08-connecting-networks-quiz.md) ✅ |
-| 9 | Securing User, Application, and Data Access | [Lecture](modules/09-securing-user-application-and-data-access.md) ✅ | [Slides](lectures/09-securing-user-application-and-data-access.pptx) ✅ | [Quiz](quizzes/09-securing-user-application-and-data-access-quiz.md) ✅ |
-| 10 | Implementing Monitoring, Elasticity, and High Availability | [Lecture](modules/10-implementing-monitoring-elasticity-and-high-availability.md) ✅ | [Slides](lectures/10-implementing-monitoring-elasticity-and-high-availability.pptx) ✅ | [Quiz](quizzes/10-implementing-monitoring-elasticity-and-high-availability-quiz.md) ✅ |
-| 11 | Automating Your Architecture | [Lecture](modules/11-automating-your-architecture.md) ✅ | [Slides](lectures/11-automating-your-architecture.pptx) ✅ | [Quiz](quizzes/11-automating-your-architecture-quiz.md) ✅ |
-| 12 | Caching Content | [Lecture](modules/12-caching-content.md) ✅ | [Slides](lectures/12-caching-content.pptx) ✅ | [Quiz](quizzes/12-caching-content-quiz.md) ✅ |
-| 13 | Building Decoupled Architectures | [Lecture](modules/13-building-decoupled-architectures.md) ✅ | [Slides](lectures/13-building-decoupled-architectures.pptx) ✅ | [Quiz](quizzes/13-building-decoupled-architectures-quiz.md) ✅ |
-| 14 | Building Serverless Architectures and Microservices | [Lecture](modules/14-building-serverless-architectures-and-microservices.md) ✅ | [Slides](lectures/14-building-serverless-architectures-and-microservices.pptx) ✅ | [Quiz](quizzes/14-building-serverless-architectures-and-microservices-quiz.md) ✅ |
-| 15 | Data Engineering Patterns | [Lecture](modules/15-data-engineering-patterns.md) ✅ | [Slides](lectures/15-data-engineering-patterns.pptx) ✅ | [Quiz](quizzes/15-data-engineering-patterns-quiz.md) ✅ |
-| 16 | Planning for Disaster | [Lecture](modules/16-planning-for-disaster.md) ✅ | [Slides](lectures/16-planning-for-disaster.pptx) ✅ | [Quiz](quizzes/16-planning-for-disaster-quiz.md) ✅ |
+| 1 | Welcome to AWS Academy Cloud Architecting | [Read](modules/01-welcome-to-cloud-architecting.md) | [Slides](lectures/01-welcome-to-cloud-architecting.pptx) | *(no knowledge check — orientation module)* |
+| 2 | Introducing Cloud Architecting | [Read](modules/02-introducing-cloud-architecting.md) | [Slides](lectures/02-introducing-cloud-architecting.pptx) | [Quiz](quizzes/02-introducing-cloud-architecting-quiz.md) |
+| 3 | Securing Access | [Read](modules/03-securing-access.md) | [Slides](lectures/03-securing-access.pptx) | [Quiz](quizzes/03-securing-access-quiz.md) |
+| 4 | Adding a Storage Layer with Amazon S3 | [Read](modules/04-adding-a-storage-layer-with-amazon-s3.md) | [Slides](lectures/04-adding-a-storage-layer-with-amazon-s3.pptx) | [Quiz](quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) |
+| 5 | Adding a Compute Layer Using Amazon EC2 | [Read](modules/05-adding-a-compute-layer-using-amazon-ec2.md) | [Slides](lectures/05-adding-a-compute-layer-using-amazon-ec2.pptx) | [Quiz](quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md) |
+| 6 | Adding a Database Layer | [Read](modules/06-adding-a-database-layer.md) | [Slides](lectures/06-adding-a-database-layer.pptx) | [Quiz](quizzes/06-adding-a-database-layer-quiz.md) |
+| 7 | Creating a Networking Environment | [Read](modules/07-creating-a-networking-environment.md) | [Slides](lectures/07-creating-a-networking-environment.pptx) | [Quiz](quizzes/07-creating-a-networking-environment-quiz.md) |
+| 8 | Connecting Networks | [Read](modules/08-connecting-networks.md) | [Slides](lectures/08-connecting-networks.pptx) | [Quiz](quizzes/08-connecting-networks-quiz.md) |
+| 9 | Securing User, Application, and Data Access | [Read](modules/09-securing-user-application-and-data-access.md) | [Slides](lectures/09-securing-user-application-and-data-access.pptx) | [Quiz](quizzes/09-securing-user-application-and-data-access-quiz.md) |
+| 10 | Implementing Monitoring, Elasticity, and High Availability | [Read](modules/10-implementing-monitoring-elasticity-and-high-availability.md) | [Slides](lectures/10-implementing-monitoring-elasticity-and-high-availability.pptx) | [Quiz](quizzes/10-implementing-monitoring-elasticity-and-high-availability-quiz.md) |
+| 11 | Automating Your Architecture | [Read](modules/11-automating-your-architecture.md) | [Slides](lectures/11-automating-your-architecture.pptx) | [Quiz](quizzes/11-automating-your-architecture-quiz.md) |
+| 12 | Caching Content | [Read](modules/12-caching-content.md) | [Slides](lectures/12-caching-content.pptx) | [Quiz](quizzes/12-caching-content-quiz.md) |
+| 13 | Building Decoupled Architectures | [Read](modules/13-building-decoupled-architectures.md) | [Slides](lectures/13-building-decoupled-architectures.pptx) | [Quiz](quizzes/13-building-decoupled-architectures-quiz.md) |
+| 14 | Building Serverless Architectures and Microservices | [Read](modules/14-building-serverless-architectures-and-microservices.md) | [Slides](lectures/14-building-serverless-architectures-and-microservices.pptx) | [Quiz](quizzes/14-building-serverless-architectures-and-microservices-quiz.md) |
+| 15 | Data Engineering Patterns | [Read](modules/15-data-engineering-patterns.md) | [Slides](lectures/15-data-engineering-patterns.pptx) | [Quiz](quizzes/15-data-engineering-patterns-quiz.md) |
+| 16 | Planning for Disaster | [Read](modules/16-planning-for-disaster.md) | [Slides](lectures/16-planning-for-disaster.pptx) | [Quiz](quizzes/16-planning-for-disaster-quiz.md) |
 
-✅ = written and available now. "Coming soon" means the module is part of the course sequence but hasn't been written yet; links appear here as each one lands. Modules 2 and 3 review and extend foundational cloud concepts from CLF-C02; Modules 4 through 8 each add one architectural layer to the evolving café case study; Modules 9 through 16 focus on cross-cutting design principles and best practices — security, availability, automation, decoupling, serverless design, data patterns, and disaster recovery — that apply across every layer.
+Linked files are available now. Planned entries do not yet have public material.
 
 Module 1 has no official knowledge check (it's an orientation module); the Module 2 quiz link above covers Modules 1 and 2 together as a combined review.
 

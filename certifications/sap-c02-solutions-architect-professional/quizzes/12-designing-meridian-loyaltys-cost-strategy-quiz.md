@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/12-designing-meridian-loyaltys-cost-strategy.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 12 Knowledge Check**

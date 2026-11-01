@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](10-implementing-data-and-infrastructure-protection-strategies.md) · [Next module](12-configuring-domains-dns-and-content-delivery.md) · [Quiz](../quizzes/11-implementing-networking-features-and-connectivity-quiz.md) · [Slides](../lectures/11-implementing-networking-features-and-connectivity.pptx)
+<!-- /hub-navigation -->
+
 # Module 11: Implementing Networking Features and Connectivity
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

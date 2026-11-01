@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](11-implementing-networking-features-and-connectivity.md) · [Next module](13-troubleshooting-network-connectivity-issues.md) · [Quiz](../quizzes/12-configuring-domains-dns-and-content-delivery-quiz.md) · [Slides](../lectures/12-configuring-domains-dns-and-content-delivery.pptx)
+<!-- /hub-navigation -->
+
 # Module 12: Configuring Domains, DNS, and Content Delivery
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

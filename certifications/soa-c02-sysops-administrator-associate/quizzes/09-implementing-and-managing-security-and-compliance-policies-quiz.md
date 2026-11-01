@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/09-implementing-and-managing-security-and-compliance-policies.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 9 Knowledge Check**

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/05-adding-a-compute-layer-using-amazon-ec2.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · WAKE TECH**
 
 **Module 5 Review Quiz**

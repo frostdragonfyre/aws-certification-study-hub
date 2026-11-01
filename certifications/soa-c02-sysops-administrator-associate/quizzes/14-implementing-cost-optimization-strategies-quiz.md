@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/14-implementing-cost-optimization-strategies.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 14 Knowledge Check**

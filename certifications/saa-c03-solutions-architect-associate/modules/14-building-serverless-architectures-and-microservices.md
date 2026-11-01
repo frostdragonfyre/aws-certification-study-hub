@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](13-building-decoupled-architectures.md) · [Next module](15-data-engineering-patterns.md) · [Quiz](../quizzes/14-building-serverless-architectures-and-microservices-quiz.md) · [Slides](../lectures/14-building-serverless-architectures-and-microservices.pptx)
+<!-- /hub-navigation -->
+
 # Module 14: Building Serverless Architectures and Microservices
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

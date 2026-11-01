@@ -1,3 +1,5 @@
+[Shared references](../README.md) · [Hub home](../../README.md)
+
 # How to Read AWS Scenario Questions
 
 Most people who fail an AWS certification exam don't fail because they didn't know the services. They fail because they answered a question the exam wasn't asking.

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/03-prescribing-security-controls-at-the-organization-level.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 3 Knowledge Check**

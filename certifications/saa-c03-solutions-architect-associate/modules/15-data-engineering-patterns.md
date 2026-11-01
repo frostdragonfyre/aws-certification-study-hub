@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](14-building-serverless-architectures-and-microservices.md) · [Next module](16-planning-for-disaster.md) · [Quiz](../quizzes/15-data-engineering-patterns-quiz.md) · [Slides](../lectures/15-data-engineering-patterns.pptx)
+<!-- /hub-navigation -->
+
 # Module 15: Data Engineering Patterns
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

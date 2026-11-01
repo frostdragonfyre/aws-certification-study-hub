@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](05-designing-a-multi-account-aws-environment.md) · [Next module](07-designing-a-deployment-strategy.md) · [Quiz](../quizzes/06-cost-optimization-and-visibility-strategies-quiz.md) · [Slides](../lectures/06-cost-optimization-and-visibility-strategies.pptx)
+<!-- /hub-navigation -->
+
 # Module 6: Cost Optimization and Visibility Strategies
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](02-remediating-issues-based-on-monitoring-and-availability-metrics.md) · [Next module](04-implementing-scalability-and-elasticity.md) · [Quiz](../quizzes/03-maintaining-and-troubleshooting-logging-solutions-quiz.md) · [Slides](../lectures/03-maintaining-and-troubleshooting-logging-solutions.pptx)
+<!-- /hub-navigation -->
+
 # Module 3: Maintaining and Troubleshooting Logging Solutions
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

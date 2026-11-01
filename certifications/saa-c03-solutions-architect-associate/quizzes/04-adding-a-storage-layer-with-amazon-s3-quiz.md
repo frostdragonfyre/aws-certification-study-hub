@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/04-adding-a-storage-layer-with-amazon-s3.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · WAKE TECH**
 
 **Module 4 Review Quiz**

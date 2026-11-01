@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/06-implementing-backup-and-restore-strategies.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 6 Knowledge Check**

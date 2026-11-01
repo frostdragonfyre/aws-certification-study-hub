@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/05-implementing-high-availability-and-resilient-environments.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 5 Knowledge Check**

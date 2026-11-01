@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](15-data-engineering-patterns.md) · [Quiz](../quizzes/16-planning-for-disaster-quiz.md) · [Slides](../lectures/16-planning-for-disaster.pptx)
+<!-- /hub-navigation -->
+
 # Module 16: Planning for Disaster
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

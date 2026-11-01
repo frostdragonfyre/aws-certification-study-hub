@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/05-networking-and-content-delivery.md) · [All activities](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · LECTURE 5**
 
 **Lab Worksheet — Networking and Content Delivery**

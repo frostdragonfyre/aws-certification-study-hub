@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](02-introducing-cloud-architecting.md) · [Next module](04-adding-a-storage-layer-with-amazon-s3.md) · [Quiz](../quizzes/03-securing-access-quiz.md) · [Slides](../lectures/03-securing-access.pptx)
+<!-- /hub-navigation -->
+
 # Module 3: Securing Access
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](04-aws-cloud-security.md) · [Next module](06-compute.md) · [Quiz](../quizzes/05-networking-and-content-delivery-quiz.md) · [Slides](../lectures/05-networking-and-content-delivery.pptx)
+<!-- /hub-navigation -->
+
 # Module 5: Networking and Content Delivery
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

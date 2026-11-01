@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](12-caching-content.md) · [Next module](14-building-serverless-architectures-and-microservices.md) · [Quiz](../quizzes/13-building-decoupled-architectures-quiz.md) · [Slides](../lectures/13-building-decoupled-architectures.pptx)
+<!-- /hub-navigation -->
+
 # Module 13: Building Decoupled Architectures
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

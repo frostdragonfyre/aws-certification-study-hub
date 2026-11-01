@@ -1,5 +1,5 @@
 """
-Builds certifications/saa-c03/lectures/13-building-decoupled-architectures.pptx
+Builds certifications/saa-c03-solutions-architect-associate/lectures/13-building-decoupled-architectures.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-module-13-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "saa-c03", "lectures",
+                    "certifications", "saa-c03-solutions-architect-associate", "lectures",
                     "13-building-decoupled-architectures.pptx")
 
 d = Deck(13, "Building Decoupled Architectures",

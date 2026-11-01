@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](07-provisioning-and-maintaining-cloud-resources.md) · [Next module](09-implementing-and-managing-security-and-compliance-policies.md) · [Quiz](../quizzes/08-automating-manual-and-repeatable-processes-quiz.md) · [Slides](../lectures/08-automating-manual-and-repeatable-processes.pptx)
+<!-- /hub-navigation -->
+
 # Module 8: Automating Manual and Repeatable Processes
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/04-choose-a-modeling-approach.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS MACHINE LEARNING ENGINEER ASSOCIATE · WAKE TECH**
 
 **Module 4 Knowledge Check**

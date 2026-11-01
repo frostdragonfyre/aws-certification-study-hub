@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](06-compute.md) · [Next module](08-databases.md) · [Quiz](../quizzes/07-storage-quiz.md) · [Slides](../lectures/07-storage.pptx)
+<!-- /hub-navigation -->
+
 # Module 7: Storage
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

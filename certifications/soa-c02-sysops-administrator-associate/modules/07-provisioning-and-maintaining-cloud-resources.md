@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](06-implementing-backup-and-restore-strategies.md) · [Next module](08-automating-manual-and-repeatable-processes.md) · [Quiz](../quizzes/07-provisioning-and-maintaining-cloud-resources-quiz.md) · [Slides](../lectures/07-provisioning-and-maintaining-cloud-resources.pptx)
+<!-- /hub-navigation -->
+
 # Module 7: Provisioning and Maintaining Cloud Resources
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

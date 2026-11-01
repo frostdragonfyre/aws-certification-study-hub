@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/02-remediating-issues-based-on-monitoring-and-availability-metrics.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 2 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](04-designing-reliable-and-resilient-architectures.md) · [Next module](06-cost-optimization-and-visibility-strategies.md) · [Quiz](../quizzes/05-designing-a-multi-account-aws-environment-quiz.md) · [Slides](../lectures/05-designing-a-multi-account-aws-environment.pptx)
+<!-- /hub-navigation -->
+
 # Module 5: Designing a Multi-Account AWS Environment
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

@@ -1,5 +1,5 @@
 """
-Builds certifications/sap-c02/lectures/01-welcome-to-solutions-architect-professional.pptx
+Builds certifications/sap-c02-solutions-architect-professional/lectures/01-welcome-to-solutions-architect-professional.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-module-01-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "sap-c02", "lectures",
+                    "certifications", "sap-c02-solutions-architect-professional", "lectures",
                     "01-welcome-to-solutions-architect-professional.pptx")
 
 d = Deck(1, "Welcome to Solutions Architect Professional",

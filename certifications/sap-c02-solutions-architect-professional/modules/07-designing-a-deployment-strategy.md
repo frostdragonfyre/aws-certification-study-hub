@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](06-cost-optimization-and-visibility-strategies.md) · [Next module](08-designing-a-solution-to-ensure-business-continuity.md) · [Quiz](../quizzes/07-designing-a-deployment-strategy-quiz.md) · [Slides](../lectures/07-designing-a-deployment-strategy.pptx)
+<!-- /hub-navigation -->
+
 # Module 7: Designing a Deployment Strategy
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

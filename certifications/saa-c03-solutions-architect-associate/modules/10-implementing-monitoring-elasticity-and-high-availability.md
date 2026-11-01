@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](09-securing-user-application-and-data-access.md) · [Next module](11-automating-your-architecture.md) · [Quiz](../quizzes/10-implementing-monitoring-elasticity-and-high-availability-quiz.md) · [Slides](../lectures/10-implementing-monitoring-elasticity-and-high-availability.pptx)
+<!-- /hub-navigation -->
+
 # Module 10: Implementing Monitoring, Elasticity, and High Availability
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

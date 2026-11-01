@@ -1,5 +1,5 @@
 """
-Builds certifications/sap-c02/lectures/10-designing-meridian-loyalty-to-scale-reliably.pptx
+Builds certifications/sap-c02-solutions-architect-professional/lectures/10-designing-meridian-loyalty-to-scale-reliably.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-module-10-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "sap-c02", "lectures",
+                    "certifications", "sap-c02-solutions-architect-professional", "lectures",
                     "10-designing-meridian-loyalty-to-scale-reliably.pptx")
 
 d = Deck(10, "Designing Meridian Loyalty to Scale Reliably",

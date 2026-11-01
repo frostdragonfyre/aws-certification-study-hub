@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](13-troubleshooting-network-connectivity-issues.md) · [Next module](15-implementing-compute-and-storage-performance-optimization.md) · [Quiz](../quizzes/14-implementing-cost-optimization-strategies-quiz.md) · [Slides](../lectures/14-implementing-cost-optimization-strategies.pptx)
+<!-- /hub-navigation -->
+
 # Module 14: Implementing Cost Optimization Strategies
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

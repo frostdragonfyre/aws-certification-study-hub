@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Next module](02-remediating-issues-based-on-monitoring-and-availability-metrics.md) · [Quiz](../quizzes/01-implementing-metrics-alarms-and-filters-quiz.md) · [Slides](../lectures/01-implementing-metrics-alarms-and-filters.pptx)
+<!-- /hub-navigation -->
+
 # Module 1: Implementing Metrics, Alarms, and Filters
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

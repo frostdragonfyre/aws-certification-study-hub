@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Next module](02-introducing-cloud-architecting.md) · [Slides](../lectures/01-welcome-to-cloud-architecting.pptx)
+<!-- /hub-navigation -->
+
 # Module 1: Welcome to AWS Academy Cloud Architecting
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](05-adding-a-compute-layer-using-amazon-ec2.md) · [Next module](07-creating-a-networking-environment.md) · [Quiz](../quizzes/06-adding-a-database-layer-quiz.md) · [Slides](../lectures/06-adding-a-database-layer.pptx)
+<!-- /hub-navigation -->
+
 # Module 6: Adding a Database Layer
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

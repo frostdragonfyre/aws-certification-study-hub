@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](09-cloud-architecture.md) · [Quiz](../quizzes/10-auto-scaling-and-monitoring-quiz.md) · [Slides](../lectures/10-auto-scaling-and-monitoring.pptx)
+<!-- /hub-navigation -->
+
 # Module 10: Auto Scaling and Monitoring
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

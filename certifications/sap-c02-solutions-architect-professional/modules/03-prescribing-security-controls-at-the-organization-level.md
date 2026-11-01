@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](02-architecting-network-connectivity-strategies.md) · [Next module](04-designing-reliable-and-resilient-architectures.md) · [Quiz](../quizzes/03-prescribing-security-controls-at-the-organization-level-quiz.md) · [Slides](../lectures/03-prescribing-security-controls-at-the-organization-level.pptx)
+<!-- /hub-navigation -->
+
 # Module 3: Prescribing Security Controls at the Organization Level
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

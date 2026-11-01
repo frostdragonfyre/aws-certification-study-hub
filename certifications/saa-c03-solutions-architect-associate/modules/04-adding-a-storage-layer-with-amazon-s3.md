@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](03-securing-access.md) · [Next module](05-adding-a-compute-layer-using-amazon-ec2.md) · [Quiz](../quizzes/04-adding-a-storage-layer-with-amazon-s3-quiz.md) · [Slides](../lectures/04-adding-a-storage-layer-with-amazon-s3.pptx)
+<!-- /hub-navigation -->
+
 # Module 4: Adding a Storage Layer with Amazon S3
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

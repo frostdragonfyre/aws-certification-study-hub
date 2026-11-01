@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](05-networking-and-content-delivery.md) · [Next module](07-storage.md) · [Quiz](../quizzes/06-compute-quiz.md) · [Slides](../lectures/06-compute.pptx)
+<!-- /hub-navigation -->
+
 # Module 6: Compute
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

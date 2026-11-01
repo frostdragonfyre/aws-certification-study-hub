@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](07-creating-a-networking-environment.md) · [Next module](09-securing-user-application-and-data-access.md) · [Quiz](../quizzes/08-connecting-networks-quiz.md) · [Slides](../lectures/08-connecting-networks.pptx)
+<!-- /hub-navigation -->
+
 # Module 8: Connecting Networks
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

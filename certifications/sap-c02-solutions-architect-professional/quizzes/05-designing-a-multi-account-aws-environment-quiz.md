@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/05-designing-a-multi-account-aws-environment.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 5 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](13-continuously-improving-an-existing-solution.md) · [Next module](15-migrating-ridgeline-diner-co-to-aws.md) · [Quiz](../quizzes/14-improving-reliability-performance-and-cost-quiz.md) · [Slides](../lectures/14-improving-reliability-performance-and-cost.pptx)
+<!-- /hub-navigation -->
+
 # Module 14: Improving Reliability, Performance, and Cost for an Existing Solution
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

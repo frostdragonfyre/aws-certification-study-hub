@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](01-welcome-to-solutions-architect-professional.md) · [Next module](03-prescribing-security-controls-at-the-organization-level.md) · [Quiz](../quizzes/02-architecting-network-connectivity-strategies-quiz.md) · [Slides](../lectures/02-architecting-network-connectivity-strategies.pptx)
+<!-- /hub-navigation -->
+
 # Module 2: Architecting Network Connectivity Strategies
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

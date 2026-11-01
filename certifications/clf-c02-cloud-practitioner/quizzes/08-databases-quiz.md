@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/08-databases.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · WAKE TECH**
 
 **Module 8 Review Quiz**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Next module](02-architecting-network-connectivity-strategies.md) · [Quiz](../quizzes/01-welcome-to-solutions-architect-professional-quiz.md) · [Slides](../lectures/01-welcome-to-solutions-architect-professional.pptx)
+<!-- /hub-navigation -->
+
 # Module 1: Welcome to Solutions Architect Professional
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

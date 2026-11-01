@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/01-cloud-concepts-overview.md) · [All activities](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · LECTURE 1**
 
 **Lab Worksheet — Cloud Concepts**

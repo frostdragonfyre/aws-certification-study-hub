@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](03-aws-global-infrastructure-overview.md) · [Next module](05-networking-and-content-delivery.md) · [Quiz](../quizzes/04-aws-cloud-security-quiz.md) · [Slides](../lectures/04-aws-cloud-security.pptx)
+<!-- /hub-navigation -->
+
 # Module 4: AWS Cloud Security
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

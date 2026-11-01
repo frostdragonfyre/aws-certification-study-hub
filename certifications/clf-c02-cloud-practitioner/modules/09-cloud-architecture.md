@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](08-databases.md) · [Next module](10-auto-scaling-and-monitoring.md) · [Quiz](../quizzes/09-cloud-architecture-quiz.md) · [Slides](../lectures/09-cloud-architecture.pptx)
+<!-- /hub-navigation -->
+
 # Module 9: Cloud Architecture
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

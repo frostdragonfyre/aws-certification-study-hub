@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](06-adding-a-database-layer.md) · [Next module](08-connecting-networks.md) · [Quiz](../quizzes/07-creating-a-networking-environment-quiz.md) · [Slides](../lectures/07-creating-a-networking-environment.pptx)
+<!-- /hub-navigation -->
+
 # Module 7: Creating a Networking Environment
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

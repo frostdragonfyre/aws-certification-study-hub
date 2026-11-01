@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](08-designing-a-solution-to-ensure-business-continuity.md) · [Next module](10-designing-meridian-loyalty-to-scale-reliably.md) · [Quiz](../quizzes/09-determining-security-controls-for-new-solutions-quiz.md) · [Slides](../lectures/09-determining-security-controls-for-new-solutions.pptx)
+<!-- /hub-navigation -->
+
 # Module 9: Determining Security Controls for New Solutions
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

@@ -1,5 +1,5 @@
 """
-Builds certifications/soa-c02/lectures/07-provisioning-and-maintaining-cloud-resources.pptx
+Builds certifications/soa-c02-sysops-administrator-associate/lectures/07-provisioning-and-maintaining-cloud-resources.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-module-07-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "soa-c02", "lectures",
+                    "certifications", "soa-c02-sysops-administrator-associate", "lectures",
                     "07-provisioning-and-maintaining-cloud-resources.pptx")
 
 d = Deck(7, "Provisioning and Maintaining Cloud Resources",

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/02-introducing-cloud-architecting.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · WAKE TECH**
 
 **Modules 1 & 2 Review Quiz**

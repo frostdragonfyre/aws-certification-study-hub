@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/03-ensure-data-integrity-and-prepare-data-for-modeling.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS MACHINE LEARNING ENGINEER ASSOCIATE · WAKE TECH**
 
 **Module 3 Knowledge Check**

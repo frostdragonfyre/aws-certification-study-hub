@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](08-connecting-networks.md) · [Next module](10-implementing-monitoring-elasticity-and-high-availability.md) · [Quiz](../quizzes/09-securing-user-application-and-data-access-quiz.md) · [Slides](../lectures/09-securing-user-application-and-data-access.pptx)
+<!-- /hub-navigation -->
+
 # Module 9: Securing User, Application, and Data Access
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

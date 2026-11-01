@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/09-determining-security-controls-for-new-solutions.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 9 Knowledge Check**

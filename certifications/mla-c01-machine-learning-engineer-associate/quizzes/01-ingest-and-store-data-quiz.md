@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/01-ingest-and-store-data.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS MACHINE LEARNING ENGINEER ASSOCIATE · WAKE TECH**
 
 **Module 1 Knowledge Check**

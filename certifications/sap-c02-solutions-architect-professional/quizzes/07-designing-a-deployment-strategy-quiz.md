@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/07-designing-a-deployment-strategy.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 7 Knowledge Check**

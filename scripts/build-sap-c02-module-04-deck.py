@@ -1,5 +1,5 @@
 """
-Builds certifications/sap-c02/lectures/04-designing-reliable-and-resilient-architectures.pptx
+Builds certifications/sap-c02-solutions-architect-professional/lectures/04-designing-reliable-and-resilient-architectures.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-module-04-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "sap-c02", "lectures",
+                    "certifications", "sap-c02-solutions-architect-professional", "lectures",
                     "04-designing-reliable-and-resilient-architectures.pptx")
 
 d = Deck(4, "Designing Reliable and Resilient Architectures",

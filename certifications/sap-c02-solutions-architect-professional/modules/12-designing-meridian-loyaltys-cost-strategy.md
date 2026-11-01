@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](11-designing-performance-efficiency-for-meridian-loyalty.md) · [Next module](13-continuously-improving-an-existing-solution.md) · [Quiz](../quizzes/12-designing-meridian-loyaltys-cost-strategy-quiz.md) · [Slides](../lectures/12-designing-meridian-loyaltys-cost-strategy.pptx)
+<!-- /hub-navigation -->
+
 # Module 12: Designing Meridian Loyalty's Cost Strategy
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

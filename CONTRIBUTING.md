@@ -42,7 +42,7 @@ Match the existing voice. Concretely, that means:
 
 ## Starting new content
 
-Always start from the matching file in `templates/`:
+Use the [template index](templates/README.md) and start from the matching file in `templates/`:
 
 - `templates/module-template.md` for a new module
 - `templates/quiz-template.md` for a new quiz (public, questions only) and `templates/quiz-answer-key-template.md` for its private answer key
@@ -52,7 +52,9 @@ Use `certifications/clf-c02-cloud-practitioner/modules/01-cloud-concepts-overvie
 
 ## Adding a new certification
 
-To add a new exam, create `certifications/<exam-code>/` with `modules/`, `quizzes/`, and `labs/` subfolders (matching the existing structure), and add a row to the roadmap table in the root `README.md`.
+To add a learning path, use `certifications/<exam-code>-<descriptive-name>/`. Add an ordered course index and public `modules/`, `quizzes/`, and `lectures/` material; include `labs/` when public activities exist. Add the path to the root catalog only when it has usable material. Clearly label partial or legacy coverage, verify its official exam version, and update `EXAM-VERSIONS.md` when needed. Keep existing public paths stable.
+
+Before submitting, run `python scripts/check_hub.py` from the repository root. Add course-index links to new lessons and quizzes, link the available paired files, and confirm that completed answer keys remain ignored.
 
 ## Submitting changes
 

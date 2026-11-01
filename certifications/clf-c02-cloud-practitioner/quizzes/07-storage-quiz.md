@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/07-storage.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · WAKE TECH**
 
 **Module 7 Review Quiz**

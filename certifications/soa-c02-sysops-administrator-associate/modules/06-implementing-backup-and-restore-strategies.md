@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](05-implementing-high-availability-and-resilient-environments.md) · [Next module](07-provisioning-and-maintaining-cloud-resources.md) · [Quiz](../quizzes/06-implementing-backup-and-restore-strategies-quiz.md) · [Slides](../lectures/06-implementing-backup-and-restore-strategies.pptx)
+<!-- /hub-navigation -->
+
 # Module 6: Implementing Backup and Restore Strategies
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

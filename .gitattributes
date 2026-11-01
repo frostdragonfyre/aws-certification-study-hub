@@ -1,0 +1,6 @@
+# Keep navigation and authoring scripts consistent across Windows and Unix.
+*.md text eol=lf
+*.py text eol=lf
+
+# Presentation source files must never undergo text conversion.
+*.pptx binary

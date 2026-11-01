@@ -7,15 +7,16 @@ DECK" section below, then re-run.
 
 Usage:
     pip install python-pptx
-    python build-ccp-exam-review-deck.py
-    # writes ccp-exam-review.pptx into the current directory —
-    # copy/move it into certifications/clf-c02-cloud-practitioner/lectures/
+    python scripts/build-ccp-exam-review-deck.py
+    # writes directly to certifications/clf-c02-cloud-practitioner/lectures/
 
 The palette, fonts, and slide layouts (title/closing on navy, content on
 light gray, the white/dark two-card split, the numbered list, the table,
 the resource list) were reverse-engineered from the existing hand-built
 decks in that lectures/ folder so this one would match visually.
 """
+
+import os
 
 from pptx import Presentation
 from pptx.util import Inches, Pt, Emu
@@ -493,6 +494,7 @@ numbered_list_slide(
 
 closing_slide()  # 17
 
-OUT = "ccp-exam-review.pptx"
+OUT = os.path.join(os.path.dirname(__file__), "..", "certifications",
+                   "clf-c02-cloud-practitioner", "lectures", "ccp-exam-review.pptx")
 prs.save(OUT)
 print(f"Saved {len(prs.slides)} slides to {OUT}")

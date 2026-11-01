@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/15-implementing-compute-and-storage-performance-optimization.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 15 Knowledge Check**

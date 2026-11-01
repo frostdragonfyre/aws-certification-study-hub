@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/08-automating-manual-and-repeatable-processes.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 8 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](09-determining-security-controls-for-new-solutions.md) · [Next module](11-designing-performance-efficiency-for-meridian-loyalty.md) · [Quiz](../quizzes/10-designing-meridian-loyalty-to-scale-reliably-quiz.md) · [Slides](../lectures/10-designing-meridian-loyalty-to-scale-reliably.pptx)
+<!-- /hub-navigation -->
+
 # Module 10: Designing Meridian Loyalty to Scale Reliably
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

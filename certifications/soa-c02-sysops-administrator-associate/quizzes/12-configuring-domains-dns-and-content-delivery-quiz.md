@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/12-configuring-domains-dns-and-content-delivery.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 12 Knowledge Check**

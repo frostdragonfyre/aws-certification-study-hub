@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](12-designing-meridian-loyaltys-cost-strategy.md) · [Next module](14-improving-reliability-performance-and-cost.md) · [Quiz](../quizzes/13-continuously-improving-an-existing-solution-quiz.md) · [Slides](../lectures/13-continuously-improving-an-existing-solution.pptx)
+<!-- /hub-navigation -->
+
 # Module 13: Continuously Improving an Existing Solution — Operational Excellence and Security
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

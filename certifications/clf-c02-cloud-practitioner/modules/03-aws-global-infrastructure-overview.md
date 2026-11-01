@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](02-cloud-economics-and-billing.md) · [Next module](04-aws-cloud-security.md) · [Quiz](../quizzes/03-aws-global-infrastructure-overview-quiz.md) · [Slides](../lectures/03-aws-global-infrastructure-overview.pptx)
+<!-- /hub-navigation -->
+
 # Module 3: AWS Global Infrastructure Overview
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

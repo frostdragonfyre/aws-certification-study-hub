@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](04-implementing-scalability-and-elasticity.md) · [Next module](06-implementing-backup-and-restore-strategies.md) · [Quiz](../quizzes/05-implementing-high-availability-and-resilient-environments-quiz.md) · [Slides](../lectures/05-implementing-high-availability-and-resilient-environments.pptx)
+<!-- /hub-navigation -->
+
 # Module 5: Implementing High Availability and Resilient Environments
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

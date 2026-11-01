@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](11-automating-your-architecture.md) · [Next module](13-building-decoupled-architectures.md) · [Quiz](../quizzes/12-caching-content-quiz.md) · [Slides](../lectures/12-caching-content.pptx)
+<!-- /hub-navigation -->
+
 # Module 12: Caching Content
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

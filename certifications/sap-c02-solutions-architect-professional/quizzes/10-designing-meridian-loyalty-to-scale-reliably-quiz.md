@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/10-designing-meridian-loyalty-to-scale-reliably.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 10 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](12-configuring-domains-dns-and-content-delivery.md) · [Next module](14-implementing-cost-optimization-strategies.md) · [Quiz](../quizzes/13-troubleshooting-network-connectivity-issues-quiz.md) · [Slides](../lectures/13-troubleshooting-network-connectivity-issues.pptx)
+<!-- /hub-navigation -->
+
 # Module 13: Troubleshooting Network Connectivity Issues
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/06-cost-optimization-and-visibility-strategies.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 6 Knowledge Check**

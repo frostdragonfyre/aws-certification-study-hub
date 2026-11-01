@@ -1,26 +1,22 @@
-# Lectures
+# CLF-C02 lecture slides
 
-Raw lecture slide decks (`.pptx`), one per module, numbered to match the module it pairs with.
+[Course index](../README.md) · [Written modules](../modules/README.md) · [Hub home](../../../README.md)
 
-Naming convention: `0N-module-slug.pptx` — e.g. `01-cloud-concepts-overview.pptx` pairs with `../modules/01-cloud-concepts-overview.md`.
+Slide decks are PowerPoint downloads. Use the written modules as the main reading path. Instructor delivery scripts are not included.
 
-These are the source slides used in class. The written module in `../modules/` is the standalone, original-prose version of the same material — the two aren't required to match slide-for-slide, but should cover the same concepts.
+| Module | Download slides | Read lesson |
+| --- | --- | --- |
+| 01 · Cloud Concepts Overview | [PowerPoint](01-cloud-concepts-overview.pptx) | [Read](../modules/01-cloud-concepts-overview.md) |
+| 02 · Cloud Economics and Billing | [PowerPoint](02-cloud-economics-and-billing.pptx) | [Read](../modules/02-cloud-economics-and-billing.md) |
+| 03 · AWS Global Infrastructure Overview | [PowerPoint](03-aws-global-infrastructure-overview.pptx) | [Read](../modules/03-aws-global-infrastructure-overview.md) |
+| 04 · AWS Cloud Security | [PowerPoint](04-aws-cloud-security.pptx) | [Read](../modules/04-aws-cloud-security.md) |
+| 05 · Networking and Content Delivery | [PowerPoint](05-networking-and-content-delivery.pptx) | [Read](../modules/05-networking-and-content-delivery.md) |
+| 06 · Compute | [PowerPoint](06-compute.pptx) | [Read](../modules/06-compute.md) |
+| 07 · Storage | [PowerPoint](07-storage.pptx) | [Read](../modules/07-storage.md) |
+| 08 · Databases | [PowerPoint](08-databases.pptx) | [Read](../modules/08-databases.md) |
+| 09 · Cloud Architecture | [PowerPoint](09-cloud-architecture.pptx) | [Read](../modules/09-cloud-architecture.md) |
+| 10 · Auto Scaling and Monitoring | [PowerPoint](10-auto-scaling-and-monitoring.pptx) | [Read](../modules/10-auto-scaling-and-monitoring.md) |
 
-Instructor delivery scripts (speaking notes, timing, talking points) live in `../instructor-private/` and are not part of this public folder.
+## Exam review
 
-| # | Module | Slides |
-|---|---|---|
-| 1 | Cloud Concepts Overview | [Slides](01-cloud-concepts-overview.pptx) ✅ |
-| 2 | Cloud Economics and Billing | [Slides](02-cloud-economics-and-billing.pptx) ✅ |
-| 3 | AWS Global Infrastructure Overview | [Slides](03-aws-global-infrastructure-overview.pptx) ✅ |
-| 4 | AWS Cloud Security | [Slides](04-aws-cloud-security.pptx) ✅ |
-| 5 | Networking and Content Delivery | [Slides](05-networking-and-content-delivery.pptx) ✅ |
-| 6 | Compute | [Slides](06-compute.pptx) ✅ |
-| 7 | Storage | [Slides](07-storage.pptx) ✅ |
-| 8 | Databases | [Slides](08-databases.pptx) ✅ |
-| 9 | Cloud Architecture | [Slides](09-cloud-architecture.pptx) ✅ |
-| 10 | Auto Scaling and Monitoring | [Slides](10-auto-scaling-and-monitoring.pptx) ✅ |
-
-**Foundations complete.** All ten Cloud Foundations lecture decks are now built.
-
-Also available: [`ccp-exam-review.pptx`](ccp-exam-review.pptx) ✅ — the standalone exam review deck that pairs with [`../ccp-exam-review.md`](../ccp-exam-review.md), used alongside the Module 10 class to wrap up Foundations.
+[Exam-review slides](ccp-exam-review.pptx) · [Written exam review](../ccp-exam-review.md)

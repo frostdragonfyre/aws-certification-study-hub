@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/15-migrating-ridgeline-diner-co-to-aws.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 15 Knowledge Check**

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](04-adding-a-storage-layer-with-amazon-s3.md) · [Next module](06-adding-a-database-layer.md) · [Quiz](../quizzes/05-adding-a-compute-layer-using-amazon-ec2-quiz.md) · [Slides](../lectures/05-adding-a-compute-layer-using-amazon-ec2.pptx)
+<!-- /hub-navigation -->
+
 # Module 5: Adding a Compute Layer Using Amazon EC2
 
 **Course:** AWS Academy Cloud Architecting — building toward SAA-C03, AWS Certified Solutions Architect – Associate

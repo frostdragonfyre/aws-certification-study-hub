@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Next module](02-transform-data-and-perform-feature-engineering.md) · [Quiz](../quizzes/01-ingest-and-store-data-quiz.md) · [Slides](../lectures/01-ingest-and-store-data.pptx)
+<!-- /hub-navigation -->
+
 # Module 1: Ingest and Store Data
 
 **Course:** AWS Academy Machine Learning Engineering — building toward MLA-C01, AWS Certified Machine Learning Engineer – Associate

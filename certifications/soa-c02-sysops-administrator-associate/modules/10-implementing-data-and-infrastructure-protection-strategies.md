@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](09-implementing-and-managing-security-and-compliance-policies.md) · [Next module](11-implementing-networking-features-and-connectivity.md) · [Quiz](../quizzes/10-implementing-data-and-infrastructure-protection-strategies-quiz.md) · [Slides](../lectures/10-implementing-data-and-infrastructure-protection-strategies.pptx)
+<!-- /hub-navigation -->
+
 # Module 10: Implementing Data and Infrastructure Protection Strategies
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

@@ -1,3 +1,5 @@
+[Shared references](../README.md) · [Hub home](../../README.md)
+
 # Service Decision Tables
 
 Quick-reference tables for the "which service do I pick?" moment. These are for review and fast lookup once you already understand the concepts — the module that teaches each area is the place to actually learn it.

@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Next module](02-cloud-economics-and-billing.md) · [Quiz](../quizzes/01-cloud-concepts-overview-quiz.md) · [Slides](../lectures/01-cloud-concepts-overview.pptx)
+<!-- /hub-navigation -->
+
 # Module 1: Cloud Concepts Overview
 
 **Exam:** CLF-C02 — AWS Certified Cloud Practitioner

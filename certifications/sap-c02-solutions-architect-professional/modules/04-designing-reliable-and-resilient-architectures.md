@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](03-prescribing-security-controls-at-the-organization-level.md) · [Next module](05-designing-a-multi-account-aws-environment.md) · [Quiz](../quizzes/04-designing-reliable-and-resilient-architectures-quiz.md) · [Slides](../lectures/04-designing-reliable-and-resilient-architectures.pptx)
+<!-- /hub-navigation -->
+
 # Module 4: Designing Reliable and Resilient Architectures
 
 **Course:** AWS Academy Cloud Architecting — building toward SAP-C02, AWS Certified Solutions Architect – Professional

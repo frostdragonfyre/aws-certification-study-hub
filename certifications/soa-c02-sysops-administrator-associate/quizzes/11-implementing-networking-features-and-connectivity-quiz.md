@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/11-implementing-networking-features-and-connectivity.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SYSOPS ADMINISTRATOR ASSOCIATE · WAKE TECH**
 
 **Module 11 Knowledge Check**

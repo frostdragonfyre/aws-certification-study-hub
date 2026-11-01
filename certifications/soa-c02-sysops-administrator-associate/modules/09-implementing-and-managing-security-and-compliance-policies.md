@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](08-automating-manual-and-repeatable-processes.md) · [Next module](10-implementing-data-and-infrastructure-protection-strategies.md) · [Quiz](../quizzes/09-implementing-and-managing-security-and-compliance-policies-quiz.md) · [Slides](../lectures/09-implementing-and-managing-security-and-compliance-policies.pptx)
+<!-- /hub-navigation -->
+
 # Module 9: Implementing and Managing Security and Compliance Policies
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

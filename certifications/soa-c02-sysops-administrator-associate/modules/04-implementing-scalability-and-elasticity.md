@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](03-maintaining-and-troubleshooting-logging-solutions.md) · [Next module](05-implementing-high-availability-and-resilient-environments.md) · [Quiz](../quizzes/04-implementing-scalability-and-elasticity-quiz.md) · [Slides](../lectures/04-implementing-scalability-and-elasticity.pptx)
+<!-- /hub-navigation -->
+
 # Module 4: Implementing Scalability and Elasticity
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

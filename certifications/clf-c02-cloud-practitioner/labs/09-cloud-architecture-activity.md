@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/09-cloud-architecture.md) · [All activities](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · LECTURE 9**
 
 **Lab Worksheet — Cloud Architecture**

@@ -1,3 +1,5 @@
+[Shared references](../README.md) · [Hub home](../../README.md)
+
 # AWS Glossary
 
 Plain-English definitions of terms that come up across every AWS certification. Written for someone encountering the term for the first time, not as a substitute for the module that teaches it properly.

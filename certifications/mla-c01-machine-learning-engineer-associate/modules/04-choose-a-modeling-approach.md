@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](03-ensure-data-integrity-and-prepare-data-for-modeling.md) · [Quiz](../quizzes/04-choose-a-modeling-approach-quiz.md) · [Slides](../lectures/04-choose-a-modeling-approach.pptx)
+<!-- /hub-navigation -->
+
 # Module 4: Choose a Modeling Approach
 
 **Course:** AWS Academy Machine Learning Engineering — building toward MLA-C01, AWS Certified Machine Learning Engineer – Associate

@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/13-continuously-improving-an-existing-solution.md) · [All quizzes](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT PROFESSIONAL · WAKE TECH**
 
 **Module 13 Knowledge Check**

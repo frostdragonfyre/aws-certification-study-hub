@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](14-implementing-cost-optimization-strategies.md) · [Quiz](../quizzes/15-implementing-compute-and-storage-performance-optimization-quiz.md) · [Slides](../lectures/15-implementing-compute-and-storage-performance-optimization.pptx)
+<!-- /hub-navigation -->
+
 # Module 15: Implementing Compute and Storage Performance Optimization
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate

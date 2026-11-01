@@ -1,5 +1,5 @@
 """
-Builds certifications/mla-c01/lectures/03-ensure-data-integrity-and-prepare-data-for-modeling.pptx
+Builds certifications/mla-c01-machine-learning-engineer-associate/lectures/03-ensure-data-integrity-and-prepare-data-for-modeling.pptx
 
 Run from the repo root (needs scripts/deck_lib.py on the path):
     python3 scripts/build-mla-c01-module-03-deck.py
@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from deck_lib import Deck
 
 OUT = os.path.join(os.path.dirname(__file__), "..",
-                    "certifications", "mla-c01", "lectures",
+                    "certifications", "mla-c01-machine-learning-engineer-associate", "lectures",
                     "03-ensure-data-integrity-and-prepare-data-for-modeling.pptx")
 
 d = Deck(3, "Ensure Data Integrity and Prepare Data for Modeling",

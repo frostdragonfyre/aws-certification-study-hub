@@ -1,3 +1,5 @@
+[Course index](../README.md) · [Read the paired lesson](../modules/04-aws-cloud-security.md) · [All activities](README.md)
+
 **NET-3100BB2 · AWS SOLUTIONS ARCHITECT · LECTURE 4**
 
 **Lab Worksheet — Cloud Security**

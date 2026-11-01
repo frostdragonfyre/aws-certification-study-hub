@@ -1,3 +1,7 @@
+<!-- hub-navigation -->
+[Course index](../README.md) · [Previous module](01-implementing-metrics-alarms-and-filters.md) · [Next module](03-maintaining-and-troubleshooting-logging-solutions.md) · [Quiz](../quizzes/02-remediating-issues-based-on-monitoring-and-availability-metrics-quiz.md) · [Slides](../lectures/02-remediating-issues-based-on-monitoring-and-availability-metrics.pptx)
+<!-- /hub-navigation -->
+
 # Module 2: Remediating Issues Based on Monitoring and Availability Metrics
 
 **Course:** AWS Academy Cloud Operations — building toward SOA-C02, AWS Certified SysOps Administrator – Associate
