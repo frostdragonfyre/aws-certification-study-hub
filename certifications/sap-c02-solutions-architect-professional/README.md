@@ -1,14 +1,14 @@
-# SAP-C02 â€” AWS Certified Solutions Architect â€“ Professional
+# SAP-C02 — AWS Certified Solutions Architect – Professional
 
-[Hub home](../../README.md) Â· [Learning guide](../../LEARNING-GUIDE.md) Â· [Exam versions](../../EXAM-VERSIONS.md)
+[Hub home](../../README.md) · [Learning guide](../../LEARNING-GUIDE.md) · [Exam versions](../../EXAM-VERSIONS.md)
 
-**Start:** [Module 1](modules/01-welcome-to-solutions-architect-professional.md) Â· [Written modules](modules/README.md) Â· [Quizzes](quizzes/README.md) Â· [Slides](lectures/README.md)
+**Start:** [Module 1](modules/01-welcome-to-solutions-architect-professional.md) · [Written modules](modules/README.md) · [Quizzes](quizzes/README.md) · [Slides](lectures/README.md)
 
 **Version note:** AWS has announced the SAP-C03 transition; SAP-C02 delivery ends November 16, 2026. These lessons have not been mapped to SAP-C03. [Read the dated version note](../../EXAM-VERSIONS.md#solutions-architect-professional-sap-c02-and-sap-c03).
 
 **Available material:** 16 written modules, 16 quizzes, and 16 slide decks.
 
-The course follows one evolving case study: Meridian Retail Group. Domain 1 (Modules 1â€“6) covers organizational complexity â€” multi-account strategy, governance, and cross-team requirements. Domain 2 (Modules 7â€“12) designs Meridian Loyalty, a new customer loyalty platform, from scratch. Domain 3 (Modules 13â€“14) improves CafÃ© Sol, a business Meridian acquired that's already running in AWS, using six months of real operating data. Domain 4 (Modules 15â€“16) migrates and modernizes Ridgeline Diner Co., a business that had never touched the cloud at all. Start at Module 1 and work down the table in order.
+The course follows one evolving case study: Meridian Retail Group. Domain 1 (Modules 1–6) covers organizational complexity — multi-account strategy, governance, and cross-team requirements. Domain 2 (Modules 7–12) designs Meridian Loyalty, a new customer loyalty platform, from scratch. Domain 3 (Modules 13–14) improves Café Sol, a business Meridian acquired that's already running in AWS, using six months of real operating data. Domain 4 (Modules 15–16) migrates and modernizes Ridgeline Diner Co., a business that had never touched the cloud at all. Start at Module 1 and work down the table in order.
 
 | # | Module | Lesson | Slides | Quiz |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ Linked files are available now. Planned entries do not yet have public material.
 
 ## How this builds on SAA-C03
 
-If you completed [SAA-C03 Solutions Architect â€“ Associate](../saa-c03-solutions-architect-associate/README.md), this course assumes that foundation and goes deeper: multi-account governance, designing for organizations rather than single accounts, continuous improvement using real operating data instead of upfront design alone, and migrating and modernizing workloads that started outside AWS entirely. Services from SAA-C03 return here, but the questions this course asks about them are different â€” less "how do I use this service," more "which of several reasonable designs actually fits this organization's constraints."
+If you completed [SAA-C03 Solutions Architect – Associate](../saa-c03-solutions-architect-associate/README.md), this course assumes that foundation and goes deeper: multi-account governance, designing for organizations rather than single accounts, continuous improvement using real operating data instead of upfront design alone, and migrating and modernizing workloads that started outside AWS entirely. Services from SAA-C03 return here, but the questions this course asks about them are different — less "how do I use this service," more "which of several reasonable designs actually fits this organization's constraints."

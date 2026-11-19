@@ -1,14 +1,14 @@
-# MLA-C01 â€” AWS Certified Machine Learning Engineer â€“ Associate
+# MLA-C01 — AWS Certified Machine Learning Engineer – Associate
 
-[Hub home](../../README.md) Â· [Learning guide](../../LEARNING-GUIDE.md) Â· [Exam versions](../../EXAM-VERSIONS.md)
+[Hub home](../../README.md) · [Learning guide](../../LEARNING-GUIDE.md) · [Exam versions](../../EXAM-VERSIONS.md)
 
-**Start:** [Module 1](modules/01-ingest-and-store-data.md) Â· [Written modules](modules/README.md) Â· [Quizzes](quizzes/README.md) Â· [Slides](lectures/README.md)
+**Start:** [Module 1](modules/01-ingest-and-store-data.md) · [Written modules](modules/README.md) · [Quizzes](quizzes/README.md) · [Slides](lectures/README.md)
 
 **Version note:** this partial sequence uses MLA-C01. Its English exam delivery has ended, and the material has not been mapped to MLA-C02. [Read the version note](../../EXAM-VERSIONS.md#machine-learning-mla-c01-and-mla-c02).
 
-**Available material:** Modules 1â€“4, with a written lesson, quiz, and slide deck for each. Modules 5â€“12 are planned. This material has not been mapped to the updated MLA-C02 exam.
+**Available material:** Modules 1–4, with a written lesson, quiz, and slide deck for each. Modules 5–12 are planned. This material has not been mapped to the updated MLA-C02 exam.
 
-This course follows a third angle on the same story world as SAP-C02 and SOA-C02: Diego Torres, Meridian Retail Group's Machine Learning Engineer, builds and operates the ML systems layered on top of what SofÃ­a's team designed and Priya keeps running â€” a product-recommendation model for Meridian Loyalty, demand forecasting for Ridgeline Diner Co., and fraud detection for CafÃ© Sol's transactions. Where SAP-C02 asked "how should this be designed" and SOA-C02 asked "how do you operate this once it's live," MLA-C01 asks "how do you build, deploy, and run machine learning on top of it." Start at Module 1 and work down the table in order.
+This course follows a third angle on the same story world as SAP-C02 and SOA-C02: Diego Torres, Meridian Retail Group's Machine Learning Engineer, builds and operates the ML systems layered on top of what Sofía's team designed and Priya keeps running — a product-recommendation model for Meridian Loyalty, demand forecasting for Ridgeline Diner Co., and fraud detection for Café Sol's transactions. Where SAP-C02 asked "how should this be designed" and SOA-C02 asked "how do you operate this once it's live," MLA-C01 asks "how do you build, deploy, and run machine learning on top of it." Start at Module 1 and work down the table in order.
 
 | # | Module | Domain / Task | Lesson | Slides | Quiz |
 |---|---|---|---|---|---|
@@ -36,4 +36,4 @@ These modules have not been published.
 
 ## How this relates to SAP-C02 and SOA-C02
 
-If you're working through [SAP-C02 Solutions Architect â€“ Professional](../sap-c02-solutions-architect-professional/README.md) or [SOA-C02 SysOps Administrator â€“ Associate](../soa-c02-sysops-administrator-associate/README.md) alongside this course, you'll recognize the same three systems â€” Meridian Loyalty, CafÃ© Sol, and Ridgeline Diner Co. SAP-C02 asks how to design, improve, and migrate a system; SOA-C02 asks how to keep it monitored, scaled, secured, and cost-efficient once it's live; MLA-C01 asks how to build, deploy, and operate the machine learning capabilities layered on top of both. The three courses can be taken independently, but the shared case study is deliberate: the same infrastructure and operational decisions from the other two tracks show up here as the platform Diego's ML systems run on.
+If you're working through [SAP-C02 Solutions Architect – Professional](../sap-c02-solutions-architect-professional/README.md) or [SOA-C02 SysOps Administrator – Associate](../soa-c02-sysops-administrator-associate/README.md) alongside this course, you'll recognize the same three systems — Meridian Loyalty, Café Sol, and Ridgeline Diner Co. SAP-C02 asks how to design, improve, and migrate a system; SOA-C02 asks how to keep it monitored, scaled, secured, and cost-efficient once it's live; MLA-C01 asks how to build, deploy, and operate the machine learning capabilities layered on top of both. The three courses can be taken independently, but the shared case study is deliberate: the same infrastructure and operational decisions from the other two tracks show up here as the platform Diego's ML systems run on.

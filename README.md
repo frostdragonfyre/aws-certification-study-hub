@@ -2,17 +2,17 @@
 
 Written lessons, review quizzes, activities, and lecture slides by [Mycal Brown, PhD](https://mycalbrown.com/).
 
-Start with a question, understand the concept, then work through the decision. Choose a learning path below and follow its numbered module index. Everything linked as available is already in this repository.
+New to AWS? Start with [Cloud Practitioner Module 1](certifications/clf-c02-cloud-practitioner/modules/01-cloud-concepts-overview.md). If you already know the fundamentals, choose a path below. Each course index puts the lesson, slides, and quiz on the same row.
 
 ## Choose a learning path
 
 | Learning path | Written modules | Quizzes | Module slides | Where to begin |
 | --- | ---: | ---: | ---: | --- |
-| [Cloud Practitioner Â· CLF-C02](certifications/clf-c02-cloud-practitioner/README.md) | 10 | 10 | 10 | Cloud foundations; includes 10 activities and an exam review |
-| [Solutions Architect Associate Â· SAA-C03](certifications/saa-c03-solutions-architect-associate/README.md) | 16 | 15 | 16 | Architecture after foundations; orientation has no separate quiz |
-| [Solutions Architect Professional Â· SAP-C02](certifications/sap-c02-solutions-architect-professional/README.md) | 16 | 16 | 16 | Complex architecture; SAP-C03 transition noted below |
-| [Cloud operations Â· legacy SOA-C02](certifications/soa-c02-sysops-administrator-associate/README.md) | 15 | 15 | 15 | Earlier SysOps sequence; current exam is SOA-C03 |
-| [Machine learning Â· partial MLA-C01](certifications/mla-c01-machine-learning-engineer-associate/README.md) | 4 | 4 | 4 | Modules 1â€“4 available; updated exam coverage is not claimed |
+| [Cloud Practitioner · CLF-C02](certifications/clf-c02-cloud-practitioner/README.md) | 10 | 10 | 10 | Cloud foundations; includes 10 activities and an exam review |
+| [Solutions Architect Associate · SAA-C03](certifications/saa-c03-solutions-architect-associate/README.md) | 16 | 15 | 16 | Architecture after foundations; orientation has no separate quiz |
+| [Solutions Architect Professional · SAP-C02](certifications/sap-c02-solutions-architect-professional/README.md) | 16 | 16 | 16 | Complex architecture; SAP-C03 transition noted below |
+| [Cloud operations · legacy SOA-C02](certifications/soa-c02-sysops-administrator-associate/README.md) | 15 | 15 | 15 | Earlier SysOps sequence; current exam is SOA-C03 |
+| [Machine learning · partial MLA-C01](certifications/mla-c01-machine-learning-engineer-associate/README.md) | 4 | 4 | 4 | Modules 1–4 available; updated exam coverage is not claimed |
 
 **Counts describe files available here, not exam readiness or a technical review of every lesson.** The Cloud Practitioner exam-review deck is additional to the module-slide counts above.
 

@@ -1,6 +1,6 @@
 [Course index](../README.md) · [Read the paired lesson](../modules/01-cloud-concepts-overview.md) · [All activities](README.md)
 
-**NET-3100BB2 · AWS SOLUTIONS ARCHITECT · LECTURE 1**
+**AWS Certified Cloud Practitioner (CLF-C02) · Module 1**
 
 **Lab Worksheet — Cloud Concepts**
 
@@ -25,7 +25,7 @@ For each scenario, write which of the five characteristics of cloud computing it
 | 4 | Employees access their company's cloud-hosted email from a laptop, a phone, or a tablet, from anywhere with internet. | |
 | 5 | Thousands of unrelated companies' workloads run on the same shared physical hardware, invisibly to each other. | |
 | 6 | A startup requests a new server but has to email an internal IT team and wait two business days for it to be provisioned. | |
-| 7 | A company pays a flat annual license fee regardless of how much they actually use the software. | |
+| 7 | A team has a shared hosted platform, but it collects no usage measurements for compute, storage, or network traffic. | |
 
 ### Part B — IaaS, PaaS, or SaaS?
 
@@ -42,7 +42,7 @@ For each description, write IaaS, PaaS, or SaaS.
 
 ### Think about it
 
-1. Scenarios 6 and 7 in Part A are NOT cloud computing, even though both involve remote servers or software. What's the one thing missing in each?
+1. Identify which of the five characteristics is absent from each scenario in rows 6 and 7. How could the platform team add it?
 2. Between IaaS, PaaS, and SaaS, which one gives you the most control? Which one gives you the least operational burden? Are those the same answer?
 3. Pick one app or service you use personally. Is it IaaS, PaaS, or SaaS from your perspective as the end user?
 
@@ -87,7 +87,7 @@ The six pillars: **Operational Excellence, Security, Reliability, Performance Ef
 | 8 | A company's AWS bill is far higher than it needs to be because nobody ever right-sized instances after launch. | |
 | 9 | A system goes down every time a single server fails, with no automatic recovery. | |
 | 10 | Engineers have no automated monitoring or logging, so they only learn about outages from angry customers. | |
-| 11 | An application runs on much bigger instances than it needs, "just in case," wasting capacity that's never used. | |
+| 11 | An interactive dashboard misses its response-time target even though the underlying service is available. | |
 | 12 | A company left an S3 bucket world-readable, exposing customer data. | |
 | 13 | A company keeps running old, inefficient hardware instead of newer, more efficient options, increasing its carbon footprint. | |
 
@@ -166,9 +166,9 @@ For two of the scenarios above, write out why the perspective you picked beats t
 
 ### Before you leave
 
-| ✓ | Homework due next class |
+| ✓ | Review checklist |
 |---|---|
-| | Finish AWS Academy Module 1 + knowledge check (aim 80%+ first attempt) |
+| | Complete the [Module 1 review quiz](../quizzes/01-cloud-concepts-overview-quiz.md). |
 | | Write, in your own words, the difference between IaaS, PaaS, and SaaS — one sentence each |
 | | Name one AWS service that acts as a "bridge" for hybrid cloud, and what specific problem it solves |
 | | Name one CAF perspective and one stakeholder who owns it, in your own words |

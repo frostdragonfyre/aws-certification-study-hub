@@ -1,6 +1,6 @@
 # Exam versions and material status
 
-[Hub home](README.md) Â· [Learning guide](LEARNING-GUIDE.md)
+[Hub home](README.md) · [Learning guide](LEARNING-GUIDE.md)
 
 Version references checked against the official sources below on **November 1, 2026**. Exam availability changes; use AWS's current certification pages before registering.
 
