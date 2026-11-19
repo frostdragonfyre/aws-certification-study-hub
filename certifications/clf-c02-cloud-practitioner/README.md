@@ -6,7 +6,7 @@
 
 **Available material:** 10 written modules, 10 quizzes, 10 activities, and 10 module slide decks. An additional exam-review guide and deck are included.
 
-Start at Module 1 and work down the table in order. Each module also links forward/back and to its own quiz and activity, so you can navigate from inside the content too. After Module 10, see the [CCP Exam Review guide](ccp-exam-review.md) ([slides](lectures/ccp-exam-review.pptx)) for how all ten modules map to the exam's four domains, plus official AWS study resources.
+Start at Module 1 and work down the table in order. Read the lesson or follow the slides, then try the activity and take the quiz. After Module 10, use the [CCP Exam Review guide](ccp-exam-review.md) and its [slides](lectures/ccp-exam-review.pptx) to find the modules and official AWS resources for each exam domain.
 
 | # | Module | Lesson | Slides | Quiz | Activity |
 |---|---|---|---|---|---|
@@ -20,8 +20,6 @@ Start at Module 1 and work down the table in order. Each module also links forwa
 | 8 | Databases | [Read](modules/08-databases.md) | [Slides](lectures/08-databases.pptx) | [Quiz](quizzes/08-databases-quiz.md) | [Activity](labs/08-databases-activity.md) |
 | 9 | Cloud Architecture | [Read](modules/09-cloud-architecture.md) | [Slides](lectures/09-cloud-architecture.pptx) | [Quiz](quizzes/09-cloud-architecture-quiz.md) | [Activity](labs/09-cloud-architecture-activity.md) |
 | 10 | Auto Scaling and Monitoring | [Read](modules/10-auto-scaling-and-monitoring.md) | [Slides](lectures/10-auto-scaling-and-monitoring.pptx) | [Quiz](quizzes/10-auto-scaling-and-monitoring-quiz.md) | [Activity](labs/10-auto-scaling-and-monitoring-activity.md) |
-
-Linked files are available now. Planned entries do not yet have public material.
 
 ## How the modules map to the exam
 

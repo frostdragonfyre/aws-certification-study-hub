@@ -2,220 +2,84 @@
 [Course index](../README.md) · [Next module](02-cloud-economics-and-billing.md) · [Quiz](../quizzes/01-cloud-concepts-overview-quiz.md) · [Slides](../lectures/01-cloud-concepts-overview.pptx)
 <!-- /hub-navigation -->
 
-# Module 1: Cloud Concepts Overview
+# Module 1 · Cloud Concepts Overview
 
-**Exam:** CLF-C02 — AWS Certified Cloud Practitioner
-**Domain:** Domain 1 — Cloud Concepts (24% of the exam)
-**Estimated study time:** 45 minutes
+**AWS Certified Cloud Practitioner (CLF-C02)** · 35–45 minutes · No AWS account required
 
-## Why this matters
+## The registration rush
 
-For about forty years, "running IT" meant owning it. If you wanted to launch a new application, step one was buying servers, storage, and networking gear — before you'd served a single customer. Then came weeks of procuring, racking, cabling, and configuring hardware while good ideas sat waiting. And you had to guess your capacity months in advance: too little and you crashed on launch day, too much and you burned money on idle servers sitting at maybe 10% utilization. On top of all that, you were also running a building — power, cooling, physical security, real estate, staff — just to keep the lights on for equipment that spent most of its life doing nothing.
+Juniper Community Center runs weekend workshops. Registration opens at noon on the first Monday of each month. The site usually handles about 40 requests per minute, then jumps to 800 per minute for a short window. Assume the current web tier handles its usual traffic comfortably. The team also keeps some member records in an office system that must stay on-site.
 
-Cloud computing exists to remove that pain. Instead of owning capacity, you rent it, turn it on in minutes, and pay only for what you use. Nearly everything else in this module — the vocabulary, the pricing logic, the global infrastructure — is really just the detail behind that one shift. Get this module solid and the rest of the exam has somewhere to attach itself.
+Should Juniper buy enough equipment for noon on registration day, or use infrastructure it can adjust as demand changes? Keep that question in mind as you work through the module.
 
 ## Learning objectives
 
-By the end of this module, you should be able to:
+- Recognize the characteristics and benefits of cloud computing in a scenario.
+- Distinguish deployment models from service models and assign operational responsibilities.
+- Explain how usage, reliability, and location affect a cloud decision.
+- Use the AWS Cloud Adoption Framework and AWS Well-Architected Framework to address different kinds of decisions.
 
-- Define cloud computing and recognize the five characteristics that make a service genuinely "cloud"
-- Explain the CapEx-to-OpEx shift and why it matters financially
-- Compare the three cloud deployment models and the three cloud service models
-- State the shared responsibility model and correctly sort a given task as AWS's job or yours
-- Describe how Regions, Availability Zones, and edge locations fit together
-- Explain the basic logic behind AWS pricing, including the data transfer gotcha
-- Describe the AWS Cloud Adoption Framework and match a stakeholder or scenario to the correct one of its six perspectives
-- Name the six pillars of the AWS Well-Architected Framework
+## What changes when infrastructure is on demand?
 
----
+Cloud computing lets teams provision computing resources over a network, adjust capacity as needs change, and track consumption. A cloud provider operates the physical infrastructure. The customer chooses which resources to use and how to configure their workload.
 
-## What Is Cloud Computing?
+| Characteristic | What you could observe at Juniper |
+| --- | --- |
+| On-demand self-service | An authorized developer creates a test environment through a console or API. |
+| Broad network access | Learners reach the registration service from phones or laptops over a network. |
+| Resource pooling | The provider allocates capacity from shared infrastructure with isolation between customers. |
+| Rapid elasticity | The web tier can add capacity near launch and release it when demand falls. |
+| Measured service | The platform records usage, such as instance hours or storage consumed. |
 
-Cloud computing is the on-demand delivery of IT resources — compute, storage, databases, networking — over the internet, with pay-as-you-go pricing. Notice what's *not* in that definition: no mention of a specific vendor, a specific service, or a specific technology. Cloud is a delivery model, not a product.
+Juniper can test a change sooner, add short-term capacity, and redirect staff time previously spent maintaining servers. Provider purchasing scale can lower unit costs, and a provider's geographic footprint can make expansion easier. Each benefit depends on how the team builds and operates the workload. Read the [AWS overview of cloud advantages](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html).
 
-Three ideas do the real work in that definition:
+> ⚠️ **Exam trap:** Elasticity concerns adjusting to changing load. High availability concerns keeping the service accessible through failures. Juniper needs a capacity plan for the noon rush and a failure plan in case an instance becomes unavailable.
 
-- **No buying servers.** You rent capacity instead of owning hardware.
-- **On demand.** You spin resources up and down in minutes, not months.
-- **Pay for what you use.** It behaves like a utility bill — electricity, water — rather than a capital purchase.
+## The money shift
 
-> ⚠️ **Exam trap:** Questions will describe a scenario and ask "which characteristic of cloud computing does this represent?" They're testing whether you can match a plain-English description to the right vocabulary term, not whether you've memorized a definition word-for-word. Practice translating scenarios into terms, not just reciting the terms.
+Buying servers typically requires capital expenditure (CapEx) up front. Running rented infrastructure typically produces operating expenses (OpEx) over time. Juniper can pay for additional compute around the event and release it afterward. It still needs to track baseline compute, retained storage, and applicable data transfer. Usage meters can coexist with flat fees, minimum charges, and commitments. The cost comparison depends on the workload and the pricing terms.
 
-## The Five Characteristics of Cloud
+**Try it.** Assume Juniper runs two units of capacity for 22 hours and eight units total for the two-hour peak window. How many unit-hours does it use in a day? Compare that with running eight units for 24 hours. Explain one cost the calculation leaves out. Use your result when you get to [Module 2](02-cloud-economics-and-billing.md).
 
-A service isn't "cloud" just because it runs on someone else's server. The industry-standard definition (and the one CLF-C02 tests) requires five specific traits:
+## Where the workload runs
 
-| Characteristic | What it means |
-|---|---|
-| On-demand self-service | You provision resources yourself, instantly — no ticket, no human approval, no waiting. |
-| Broad network access | Reachable over the network from anywhere, on any device. |
-| Resource pooling | The provider pools capacity and serves many customers from shared infrastructure (multi-tenancy). |
-| Rapid elasticity | Capacity scales out automatically when demand spikes and back in when it drops. |
-| Measured service | Usage is metered, so you're billed for exactly what you consume. |
+| Deployment | Juniper example |
+| --- | --- |
+| Cloud | Juniper hosts the complete registration workload in AWS. |
+| On-premises | Juniper keeps the whole workload on equipment it operates at its own site. |
+| Hybrid | The registration site runs on AWS and exchanges approved data with the on-site member-records system. |
 
-If a system is missing one of these — say, someone still has to manually approve every request — it's not really operating as a cloud service, no matter where the hardware physically sits.
+For hybrid decisions, name the requirement before choosing a service. A dedicated network connection points toward [AWS Direct Connect](https://aws.amazon.com/directconnect/). An encrypted network tunnel over the internet points toward [AWS Site-to-Site VPN](https://aws.amazon.com/vpn/site-to-site-vpn/). [AWS Storage Gateway](https://aws.amazon.com/storagegateway/) connects supported on-premises storage workflows to AWS. [AWS Outposts](https://aws.amazon.com/outposts/) extends selected AWS infrastructure and services to a customer location.
 
-## The Money Shift: CapEx vs. OpEx
+## How much the provider operates
 
-This is arguably the single biggest financial idea in cloud computing, and a favorite exam theme.
+| Service model | What the customer works with | Example |
+| --- | --- | --- |
+| Infrastructure as a service (IaaS) | A virtual machine and the operating system and applications it runs | Amazon EC2 |
+| Platform as a service (PaaS) | An application deployment environment that handles more infrastructure operations | AWS Elastic Beanstalk |
+| Software as a service (SaaS) | A finished application and the users, permissions, and data within it | A hosted registration application |
 
-| | The old way (on-premises) | The cloud way |
-|---|---|---|
-| Cost type | Capital Expense (CapEx) | Operating Expense (OpEx) |
-| When you pay | $100K+ up front, before customer #1 | Fractions of a cent per hour, only while it runs |
-| How you plan | Guess capacity years in advance | No upfront buy — turn it on when needed |
-| What happens when idle | You eat the cost whether it's busy or not | Switch it off and stop paying |
+Deployment model describes where systems run. Service model describes the level at which the team works. A hybrid design can include an IaaS component. With Amazon EC2, AWS operates the underlying physical infrastructure and Juniper patches the guest operating system. With a finished SaaS application, the vendor operates the application and Juniper still controls who it grants access to. Check the [AWS shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/) for how obligations vary by service.
 
-> ⚠️ **Exam trap:** If a question describes an organization wanting to "avoid large upfront investment" or "pay only for what they use," the answer they're fishing for is almost always framed around trading CapEx for OpEx — even if the word "OpEx" never appears in the answer choices.
+## Regions, Availability Zones, and edge locations
 
-## The Six Advantages of Cloud
+A **Region** is a geographic area. An **Availability Zone** is an isolated infrastructure location within a Region. An **edge location** can bring services such as content delivery closer to users. Juniper can distribute the web tier across Availability Zones and design it to continue operating if one fails. It can use a content delivery network to cache suitable assets near visitors. [Module 3](03-aws-global-infrastructure-overview.md) works through location and reliability decisions in detail.
 
-Beyond the CapEx/OpEx shift, AWS points to six broader business advantages. You don't need to memorize these word-for-word, but you should be able to recognize each one described in a scenario:
+## Two frameworks for different decisions
 
-1. **Trade capital expense for variable expense** — pay as you go instead of a huge upfront investment.
-2. **Benefit from massive economies of scale** — a cloud provider's buying power means lower pay-as-you-go prices than you'd get alone.
-3. **Stop guessing capacity** — scale up or down on demand instead of over- or under-provisioning.
-4. **Increase speed and agility** — new resources are minutes away, so teams can experiment faster.
-5. **Stop spending money running data centers** — focus effort on the product, not racking servers and cooling rooms.
-6. **Go global in minutes** — deploy infrastructure close to users worldwide with a few clicks.
+The **AWS Cloud Adoption Framework (CAF)** helps an organization identify what it needs to change to adopt cloud services effectively. Match the work to the perspective.
 
-## Deployment Models: Where Things Run
+| CAF perspective | Question for Juniper |
+| --- | --- |
+| Business | How will we know registration improved? |
+| People | Who needs training before launch? |
+| Governance | How will we oversee the migration and track its risks? |
+| Platform | What cloud environment will support the site? |
+| Security | How will we protect the records and respond to incidents? |
+| Operations | Who monitors registration day and handles disruptions? |
 
-Not every workload needs to be "all-in" on the cloud. There are three recognized deployment models:
+The **AWS Well-Architected Framework** helps a team review a workload. The six pillars are operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability. For Juniper, a recovery drill exercises reliability, while a consistent procedure for reviewing incidents supports operational excellence. Use [AWS CAF](https://docs.aws.amazon.com/whitepapers/latest/overview-aws-cloud-adoption-framework/foundational-capabilities.html) and the [Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) as references.
 
-| Model | What it means | Typical use case |
-|---|---|---|
-| Cloud | Everything runs on cloud infrastructure; fully cloud-native | New applications with no legacy constraints |
-| Hybrid | Cloud resources connected to on-premises infrastructure | Mid-migration, regulated data, or low-latency local needs |
-| On-premises | Resources run in your own data center, often virtualized (sometimes called a private cloud) | Legacy systems, strict data-residency requirements |
+## Apply what you learned
 
-Hybrid isn't a compromise waiting to be resolved — for many large organizations, especially in regulated industries or government, it's a long-term reality. AWS offers specific services to bridge on-premises and cloud environments, and the exam expects you to match the *reason* for hybrid to the *bridge* that solves it:
-
-| If the driver is... | The AWS bridge is... |
-|---|---|
-| Compliance & data residency (some data must legally stay on-site) | Direct Connect — a private, dedicated line into AWS |
-| Latency to the floor (factories, hospitals needing local speed) | Site-to-Site VPN — an encrypted tunnel over the internet |
-| Mid-migration (you can't move everything overnight) | Storage Gateway — lets on-prem apps reach cloud storage |
-| Legacy systems that can't move yet | Outposts — actual AWS hardware installed in your building |
-
-> ⚠️ **Exam trap:** "Which service provides a dedicated, private network connection to AWS?" is a Direct Connect question dressed up as a services question — don't confuse it with Site-to-Site VPN, which is encrypted but still travels over the public internet.
-
-## Service Models: How Much AWS Manages
-
-The other axis to know is the service model — how much of the technology stack the provider manages versus how much you manage:
-
-| Model | Full name | What you get | Example |
-|---|---|---|---|
-| IaaS | Infrastructure as a Service | The building blocks — servers, storage, networking. You manage the OS and up. | Amazon EC2 |
-| PaaS | Platform as a Service | AWS manages the infrastructure and OS; you deploy and run your code. | Elastic Beanstalk |
-| SaaS | Software as a Service | A finished application delivered over the internet. You just use it. | A web-based email service |
-
-The pattern: the higher up the stack you go, the more AWS manages and the less lands on you. That trade-off — control versus operational burden — comes up constantly, including in the very next concept.
-
-## The Shared Responsibility Model
-
-This is the single most important security concept in AWS, and it's worth roughly a third of the entire exam (Domain 2 leans on it heavily, and it shows up in Domain 1 as a foundational concept too). The line is simple to state and easy to misjudge under exam pressure:
-
-- **AWS is responsible for security *of* the cloud** — the physical data centers, Regions and Availability Zones, the hardware and host network, the virtualization layer.
-- **You are responsible for security *in* the cloud** — your data (encrypt it), IAM (who can do what), OS and application patching, and firewall/security-group configuration.
-
-> ⚠️ **Exam trap:** A question describing a *misconfigured* security group, an *unpatched* OS, or *overly permissive* IAM policies is always describing a customer failure — never an AWS failure — no matter how the scenario is dressed up. If the problem could have been fixed by a customer clicking a different setting, it's the customer's responsibility.
-
-## Global Infrastructure: Regions, Availability Zones, and Edge Locations
-
-Three terms, and the exam wants you to know how they nest:
-
-- **Regions** are separate geographic areas around the world (for example, a Region in Virginia or one in Oregon). You choose which Region your workload lives in.
-- **Availability Zones (AZs)** are isolated data centers within a Region — their own power, cooling, and network. A Region typically contains multiple AZs.
-- **Edge locations** are sites even closer to users than Regions, used to cache content (via Amazon CloudFront) and cut latency for the "last mile" to the end user.
-
-The reliability habit that matters most: run copies of your application across two or three AZs within a Region. If one AZ has a problem, the others keep serving traffic and your users never notice. This single idea — spreading across AZs — is the foundation of nearly everything the exam calls "resilience."
-
-Choosing *which* Region to use for a workload comes down to four factors:
-
-| Factor | What to consider |
-|---|---|
-| Latency | Put resources close to your users — a Region near your customers responds faster than one across an ocean. |
-| Price | The same service can cost different amounts in different Regions. |
-| Compliance | Data-residency laws may require data to stay within a specific country or jurisdiction. |
-| Service availability | Not every AWS service launches in every Region at the same time. |
-
-> ⚠️ **Exam trap:** Don't confuse edge locations with Availability Zones. AZs run your application; edge locations don't run your application at all — they cache content to get it closer to users faster.
-
-## How AWS Charges You
-
-AWS pricing rests on a few consistent principles rather than a fixed price list, which is exactly why the exam tests the *logic* instead of specific numbers:
-
-- **Compute** is generally pay-as-you-go — you pay for the time your servers run, with no long-term contract required.
-- **Storage** often gets cheaper if you commit — reserving capacity for 1–3 years typically costs much less than paying on demand.
-- **Data transfer** is where people get tripped up: moving data *into* AWS is usually free, but moving data *out* of AWS costs money, and that cost scales with volume.
-- **Prices tend to drop over time** as AWS's own infrastructure scales.
-
-> ⚠️ **Exam trap:** "Data in is free, data out costs money" shows up constantly, both on the real exam and on real bills. If a scenario is about unexpectedly high costs from serving content to end users, data transfer *out* is usually the culprit.
-
-## The AWS Cloud Adoption Framework (CAF)
-
-Everything so far in this module has been about the technology. CAF exists because migrating to the cloud is not purely a technology project — organizations that treat it as one routinely stall, overspend, or reverse the migration entirely. CAF is AWS's guidance for the *organizational* side of adoption: who owns what, and what capabilities need to be in place before, during, and after a migration.
-
-CAF organizes its guidance into six **perspectives** — sets of capabilities, each owned by specific stakeholders. Three are business-oriented, three are technology-oriented:
-
-**Business-oriented perspectives**
-
-| Perspective | Stakeholders | What it covers |
-|---|---|---|
-| Business | CFO, business managers, finance and strategy owners | IT strategy tied to business strategy, business risk, benefits realization, IT finance |
-| People | HR, staffing, people managers | Resource management, incentives, career paths, training, organizational change management |
-| Governance | CIO, program managers, enterprise architects, portfolio managers | Aligning IT strategy and goals with business strategy and goals, portfolio and program management, license management, business performance measurement |
-
-**Technology-oriented perspectives**
-
-| Perspective | Stakeholders | What it covers |
-|---|---|---|
-| Platform | CTO, IT managers, solutions architects | Describing the target-state architecture: compute, network, storage, and database provisioning; systems and application architecture |
-| Security | CISO, IT security managers, IT security analysts | Identity and access management, detective control, infrastructure security, data protection, incident response |
-| Operations | IT operations managers, IT support managers | Service and application monitoring, resource inventory management, release and change management, reporting, business continuity and disaster recovery |
-
-A useful way to hold these six in your head: **Business, People, and Governance answer "is the organization ready?"** — budget, skills, and oversight. **Platform, Security, and Operations answer "is the technology ready?"** — architecture, protection, and day-to-day running. A CAF assessment is really asking both questions at once, and gaps on the organizational side are just as likely to derail a migration as gaps on the technical side.
-
-> ⚠️ **Exam trap:** CAF questions almost always describe a stakeholder or a symptom and ask which perspective owns it — they rarely name the perspective directly. Watch especially for **Governance vs. Security when the word "risk" appears**: *business* risk (missed value, poor alignment, runaway spend) is Governance; *security* risk (breaches, unauthorized access) is Security. The same word, two different owners, depending on what kind of risk is actually being described.
-
-## The AWS Well-Architected Framework
-
-AWS's framework for what counts as a "well-built" system rests on six pillars:
-
-1. **Operational Excellence** — run and monitor systems, and keep improving them.
-2. **Security** — protect data, systems, and access.
-3. **Reliability** — recover from failure and scale to meet demand.
-4. **Performance Efficiency** — use resources efficiently as needs change.
-5. **Cost Optimization** — avoid unnecessary spend and get value for what you do spend.
-6. **Sustainability** — minimize environmental impact.
-
-You'll see these pillars again in far more depth later — at the Solutions Architect Associate level, the first four map directly onto the exam's four scored domains. For Cloud Practitioner, you just need to recognize the six names and roughly what each one protects against.
-
----
-
-## What to skip
-
-You don't need exact bandwidth figures for Direct Connect, the specific configuration steps for a Site-to-Site VPN tunnel, or a memorized list of every current AWS Region and how many Availability Zones each one has — that level of detail belongs to the Solutions Architect Associate exam, not Cloud Practitioner. For CLF-C02, focus on recognizing the concepts and matching scenarios to the right term, not reciting specifications.
-
-## Key takeaways
-
-- Cloud computing means renting IT resources on demand instead of owning them, with pay-as-you-go pricing.
-- A service is only "cloud" if it has all five characteristics: on-demand self-service, broad network access, resource pooling, rapid elasticity, and measured service.
-- The CapEx-to-OpEx shift is the financial heart of why organizations move to the cloud.
-- Shared responsibility splits security into "of the cloud" (AWS) and "in the cloud" (you) — misconfiguration is always your responsibility.
-- Spreading an application across multiple Availability Zones is the core habit behind AWS resilience.
-- Data transfer *out* of AWS costs money; data transfer *in* usually doesn't.
-- The AWS Cloud Adoption Framework organizes non-technical and technical readiness into six perspectives — Business, People, and Governance answer "is the organization ready?"; Platform, Security, and Operations answer "is the technology ready?"
-
-## Further reading
-
-- [AWS Cloud Practitioner Essentials](https://aws.amazon.com/training/learn-about/cloud-practitioner/) — AWS's own free training path covering this same domain, useful for additional practice scenarios.
-- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/) — the official source for the six pillars, useful once you're ready to go deeper than the overview here.
-- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/) — AWS's current map of Regions and Availability Zones (this changes as AWS builds more, so check it directly rather than trusting a memorized count).
-
-*Prices, Region/AZ counts, and service availability mentioned above are illustrative — verify current values at aws.amazon.com before relying on them.*
-
----
-
-**Next:** [Module 2 — Cloud Economics and Billing](02-cloud-economics-and-billing.md) · **Quiz:** [Module 1 Quiz](../quizzes/01-cloud-concepts-overview-quiz.md) · **Activity:** [Module 1 Activity](../labs/01-cloud-concepts-overview-activity.md)
+Decide what Juniper should move, what should stay on-site, and who would patch the web servers if the team chooses EC2. Name one risk your recommendation still leaves open. Then do the [practice activity](../labs/01-cloud-concepts-overview-activity.md) and take the [quiz](../quizzes/01-cloud-concepts-overview-quiz.md). For the exam objectives behind this module, see [CLF-C02 Domain 1](https://docs.aws.amazon.com/aws-certification/latest/cloud-practitioner-02/cloud-practitioner-02-domain1.html).
